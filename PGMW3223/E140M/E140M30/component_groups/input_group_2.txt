@@ -1,0 +1,4 @@
+specfile|restwave|zsys|col|bval|vel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|z_comp|trans|rely|comment
+C:/Users/Billy/Desktop/float of dawn/PGMW3223/E140M\E140M30\oda973030_continuumfit.fits|1250.57800|0.00094634|15.6971|16.1321|0.0000|2|2|2|-35.0936|35.0936|1251.61495|1251.90801|0.00094634|SII|none|
+C:/Users/Billy/Desktop/float of dawn/PGMW3223/E140M\E140M30\oda973030_continuumfit.fits|1253.80500|0.00094634|15.6971|16.1321|0.0000|2|2|2|-35.0936|35.0936|1254.84463|1255.13845|0.00094634|SII|none|
+C:/Users/Billy/Desktop/float of dawn/PGMW3223/E140M\E140M30\oda973030_continuumfit.fits|1259.51800|0.00094634|15.6971|16.1321|0.0000|2|2|2|-35.0936|35.0936|1260.56236|1260.85752|0.00094634|SII|none|

@@ -1,0 +1,4 @@
+specfile|restwave|zsys|col|bval|vel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|z_comp|trans|rely|comment
+C:/Users/Billy/Documents/BillyJessExploratory/04232025/LH10-3020/E230M\E230M10\oda912010_continuumfit.fits|2056.25690|0.00095267|13.4192|10.0000|0.0000|2|2|2|-10.4332|10.4332|2058.14420|2058.28746|0.00095267|CrII|none|
+C:/Users/Billy/Documents/BillyJessExploratory/04232025/LH10-3020/E230M\E230M10\oda912010_continuumfit.fits|2062.23400|0.00095267|13.4192|10.0000|0.0000|2|2|2|-10.4332|10.4332|2064.12679|2064.27047|0.00095267|CrII|none|
+C:/Users/Billy/Documents/BillyJessExploratory/04232025/LH10-3020/E230M\E230M10\oda912010_continuumfit.fits|2066.16100|0.00095267|13.4192|10.0000|0.0000|2|2|2|-10.4332|10.4332|2068.05740|2068.20134|0.00095267|CrII|none|

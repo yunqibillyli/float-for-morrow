@@ -1,0 +1,3 @@
+specfile|restwave|zsys|col|bval|vel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|z_comp|trans|rely|comment
+C:/Users/Billy/Documents/BillyJessExploratory/04232025/LH10-3020/E140M\E140M20\o5ez01020_continuumfit.fits|1250.578|0.00094318|16.69|5.0|0.0|2|2|2|-32.2482|32.2482|1251.62288|1251.89217|0.00094318|SII|none|
+C:/Users/Billy/Documents/BillyJessExploratory/04232025/LH10-3020/E140M\E140M20\o5ez01020_continuumfit.fits|1253.805|0.00094318|16.69|5.0|0.0|2|2|2|-32.2482|32.2482|1254.85257|1255.12257|0.00094318|SII|none|
