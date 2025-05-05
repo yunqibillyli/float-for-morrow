@@ -1,7 +1,0 @@
-specfile|restwave|zsys|col|bval|vel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|z_comp|trans|rely|comment
-/Users/billyli/Documents/float-for-morrow/PGMW3223/E140M/E140M10/oda973010_continuumfit.fits|1142.36560|0.00090521|15.5750|17.7952|0.0000|2|2|2|-43.6299|43.6299|1143.23329|1143.56610|0.00090521|FeII|none|
-/Users/billyli/Documents/float-for-morrow/PGMW3223/E140M/E140M10/oda973010_continuumfit.fits|1143.22600|0.00090521|15.5750|17.7952|0.0000|2|2|2|-43.6299|43.6299|1144.09435|1144.42740|0.00090521|FeII|none|
-/Users/billyli/Documents/float-for-morrow/PGMW3223/E140M/E140M10/oda973010_continuumfit.fits|1144.93790|0.00090521|15.5750|17.7952|0.0000|2|2|2|-43.6299|43.6299|1145.80755|1146.14110|0.00090521|FeII|none|
-/Users/billyli/Documents/float-for-morrow/PGMW3223/E140M/E140M10/oda973010_continuumfit.fits|1260.53300|0.00090521|15.5750|17.7952|0.0000|2|2|2|-43.6299|43.6299|1261.49045|1261.85768|0.00090521|FeII|none|
-/Users/billyli/Documents/float-for-morrow/PGMW3223/E140M/E140M10/oda973010_continuumfit.fits|1608.45110|0.00090521|15.5750|17.7952|0.0000|2|2|2|-43.6299|43.6299|1609.67281|1610.14140|0.00090521|FeII|none|
-/Users/billyli/Documents/float-for-morrow/PGMW3223/E140M/E140M10/oda973010_continuumfit.fits|1611.20050|0.00090521|15.5750|17.7952|0.0000|2|2|2|-43.6299|43.6299|1612.42430|1612.89369|0.00090521|FeII|none|

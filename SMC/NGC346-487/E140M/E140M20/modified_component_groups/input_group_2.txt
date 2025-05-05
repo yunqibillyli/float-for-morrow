@@ -1,0 +1,3 @@
+specfile|restwave|zsys|col|bval|vel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|z_comp|trans|rely|comment
+/Users/billyli/Documents/float-for-morrow/SMC/NGC346-487/E140M/E140M20/o4wr23010_continuumfit.fits|1239.9253|0.00054093|15.4854|5.0|0.0|2|2|2|-10.0267|10.0267|1240.55452|1240.6375|0.00054093|MgII|none|
+/Users/billyli/Documents/float-for-morrow/SMC/NGC346-487/E140M/E140M20/o4wr23010_continuumfit.fits|1240.3947|0.00054093|15.4854|5.0|0.0|2|2|2|-10.0267|10.0267|1241.02416|1241.10717|0.00054093|MgII|none|

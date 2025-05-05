@@ -1,0 +1,2 @@
+specfile|restwave|zsys|col|bval|vel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|z_comp|trans|rely|comment
+/Users/billyli/Documents/float-for-morrow/LH10-3020/E230M/E230M20/oda912020_continuumfit.fits|2062.664|0.00092736|13.1791|5.0|0.0|2|2|2|-18.021|18.021|2064.45273|2064.70094|0.00092736|ZnII|none|

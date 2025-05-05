@@ -1,2 +1,0 @@
-specfile|restwave|zsys|col|bval|vel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|z_comp|trans|rely|comment
-C:/Users/Billy/Desktop/float of dawn/PGMW3223/E230M\E230M10\oda974010_continuumfit.fits|1808.0129|0.00093052|15.7954|5.0|0.0|2|2|2|-15.1756|15.1756|1809.60369|1809.78691|0.00093052|SiII|none|
