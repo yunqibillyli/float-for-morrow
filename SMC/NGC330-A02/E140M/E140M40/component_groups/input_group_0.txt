@@ -1,0 +1,7 @@
+specfile|restwave|zsys|col|bval|vel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|z_comp|trans|rely|comment
+/Users/billyli/Documents/float-for-morrow/SMC/NGC330-A02/E140M/E140M40/o6df24030_continuumfit.fits|1142.36560|0.00046289|16.0362|13.8093|0.0000|2|2|2|-43.4492|43.4492|1142.72876|1143.06004|0.00046289|FeII|none|
+/Users/billyli/Documents/float-for-morrow/SMC/NGC330-A02/E140M/E140M40/o6df24030_continuumfit.fits|1143.22600|0.00046289|16.0362|13.8093|0.0000|2|2|2|-43.4492|43.4492|1143.58943|1143.92096|0.00046289|FeII|none|
+/Users/billyli/Documents/float-for-morrow/SMC/NGC330-A02/E140M/E140M40/o6df24030_continuumfit.fits|1144.93790|0.00046289|16.0362|13.8093|0.0000|2|2|2|-43.4492|43.4492|1145.30188|1145.63390|0.00046289|FeII|none|
+/Users/billyli/Documents/float-for-morrow/SMC/NGC330-A02/E140M/E140M40/o6df24030_continuumfit.fits|1260.53300|0.00046289|16.0362|13.8093|0.0000|2|2|2|-43.4492|43.4492|1260.93372|1261.29927|0.00046289|FeII|none|
+/Users/billyli/Documents/float-for-morrow/SMC/NGC330-A02/E140M/E140M40/o6df24030_continuumfit.fits|1608.45110|0.00046289|16.0362|13.8093|0.0000|2|2|2|-43.4492|43.4492|1608.96243|1609.42887|0.00046289|FeII|none|
+/Users/billyli/Documents/float-for-morrow/SMC/NGC330-A02/E140M/E140M40/o6df24030_continuumfit.fits|1611.20050|0.00046289|16.0362|13.8093|0.0000|2|2|2|-43.4492|43.4492|1611.71270|1612.17994|0.00046289|FeII|none|

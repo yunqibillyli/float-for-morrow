@@ -1,0 +1,2 @@
+specfile|restwave|zsys|col|bval|vel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|z_comp|trans|rely|comment
+/Users/billyli/Documents/float-for-morrow/SMC/AV220/E140M/E140M20/o4wr20020_continuumfit.fits|1355.5977|0.0005465|17.7461|5.0|0.0|2|2|2|-11.6979|11.6979|1356.28561|1356.39146|0.0005465|OI|none|
