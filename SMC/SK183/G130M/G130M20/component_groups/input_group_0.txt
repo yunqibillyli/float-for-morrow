@@ -1,3 +1,10 @@
 specfile|restwave|zsys|col|bval|vel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|z_comp|trans|rely|comment
-/Users/billyli/Documents/float-for-morrow/SMC/SK183/G130M/G130M20/lf3r4c010_continuumfit.fits|963.80050|0.00050748|13.4394|42.2066|0.0000|2|2|2|-63.5027|63.5027|964.08537|964.49389|0.00050748|PII|none|
-/Users/billyli/Documents/float-for-morrow/SMC/SK183/G130M/G130M20/lf3r4c010_continuumfit.fits|1152.81800|0.00050748|13.4394|42.2066|0.0000|2|2|2|-63.5027|63.5027|1153.15874|1153.64738|0.00050748|PII|none|
+/Users/billyli/Documents/float-for-morrow/SMC/SK183/G130M/G130M20/lf3r4c010_continuumfit.fits|948.68550|0.00050191|15.7155|30.1133|0.0000|2|2|2|-55.1471|55.1471|948.98707|949.33627|0.00050191|OI|none|
+/Users/billyli/Documents/float-for-morrow/SMC/SK183/G130M/G130M20/lf3r4c010_continuumfit.fits|950.88460|0.00050191|15.7155|30.1133|0.0000|2|2|2|-55.1471|55.1471|951.18687|951.53688|0.00050191|OI|none|
+/Users/billyli/Documents/float-for-morrow/SMC/SK183/G130M/G130M20/lf3r4c010_continuumfit.fits|971.73760|0.00050191|15.7155|30.1133|0.0000|2|2|2|-55.1471|55.1471|972.04650|972.40418|0.00050191|OI|none|
+/Users/billyli/Documents/float-for-morrow/SMC/SK183/G130M/G130M20/lf3r4c010_continuumfit.fits|976.44810|0.00050191|15.7155|30.1133|0.0000|2|2|2|-55.1471|55.1471|976.75849|977.11791|0.00050191|OI|none|
+/Users/billyli/Documents/float-for-morrow/SMC/SK183/G130M/G130M20/lf3r4c010_continuumfit.fits|988.57780|0.00050191|15.7155|30.1133|0.0000|2|2|2|-55.1471|55.1471|988.89205|989.25593|0.00050191|OI|none|
+/Users/billyli/Documents/float-for-morrow/SMC/SK183/G130M/G130M20/lf3r4c010_continuumfit.fits|988.65490|0.00050191|15.7155|30.1133|0.0000|2|2|2|-55.1471|55.1471|988.96917|989.33308|0.00050191|OI|none|
+/Users/billyli/Documents/float-for-morrow/SMC/SK183/G130M/G130M20/lf3r4c010_continuumfit.fits|988.77340|0.00050191|15.7155|30.1133|0.0000|2|2|2|-55.1471|55.1471|989.08771|989.45167|0.00050191|OI|none|
+/Users/billyli/Documents/float-for-morrow/SMC/SK183/G130M/G130M20/lf3r4c010_continuumfit.fits|1025.76160|0.00050191|15.7155|30.1133|0.0000|2|2|2|-55.1471|55.1471|1026.08767|1026.46524|0.00050191|OI|none|
+/Users/billyli/Documents/float-for-morrow/SMC/SK183/G130M/G130M20/lf3r4c010_continuumfit.fits|1039.23040|0.00050191|15.7155|30.1133|0.0000|2|2|2|-55.1471|55.1471|1039.56075|1039.94328|0.00050191|OI|none|

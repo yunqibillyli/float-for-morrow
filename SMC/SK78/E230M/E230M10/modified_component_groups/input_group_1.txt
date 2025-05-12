@@ -1,0 +1,2 @@
+specfile|restwave|zsys|col|bval|vel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|z_comp|trans|rely|comment
+/Users/billyli/Documents/float-for-morrow/SMC/SK78/E230M/E230M10/o6cd01020_continuumfit.fits|1808.0129|0.00046289|15.6532|12.6053|0.0|2|2|2|-40.107|40.107|1808.60783|1809.09181|0.00046289|SiII|none|

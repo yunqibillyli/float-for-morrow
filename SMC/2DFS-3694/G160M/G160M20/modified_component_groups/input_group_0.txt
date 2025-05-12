@@ -1,6 +1,6 @@
 specfile|restwave|zsys|col|bval|vel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|z_comp|trans|rely|comment
-/Users/billyli/Documents/float-for-morrow/SMC/2DFS-3694/G160M/G160M20/leeyac020_continuumfit.fits|1454.842|0.00048117|13.1641|5.0|0.0|2|2|2|-10.8623|10.8623|1455.48929|1455.59477|0.00048117|NiII|none|
-/Users/billyli/Documents/float-for-morrow/SMC/2DFS-3694/G160M/G160M20/leeyac020_continuumfit.fits|1703.4119|0.00048117|13.1641|5.0|0.0|2|2|2|-10.8623|10.8623|1704.16978|1704.29328|0.00048117|NiII|none|
-/Users/billyli/Documents/float-for-morrow/SMC/2DFS-3694/G160M/G160M20/leeyac020_continuumfit.fits|1709.6042|0.00048117|13.1641|5.0|0.0|2|2|2|-10.8623|10.8623|1710.36484|1710.48879|0.00048117|NiII|none|
-/Users/billyli/Documents/float-for-morrow/SMC/2DFS-3694/G160M/G160M20/leeyac020_continuumfit.fits|1741.5531|0.00048117|13.1641|5.0|0.0|2|2|2|-10.8623|10.8623|1742.32795|1742.45422|0.00048117|NiII|none|
-/Users/billyli/Documents/float-for-morrow/SMC/2DFS-3694/G160M/G160M20/leeyac020_continuumfit.fits|1751.9157|0.00048117|13.1641|5.0|0.0|2|2|2|-10.8623|10.8623|1752.69516|1752.82218|0.00048117|NiII|none|
+/Users/billyli/Documents/float-for-morrow/SMC/2DFS-3694/G160M/G160M20/leeyac020_continuumfit.fits|1454.842|0.00049633|13.2571|5.0|0.0|2|2|2|-20.0535|20.0535|1455.46672|1455.66145|0.00049633|NiII|none|
+/Users/billyli/Documents/float-for-morrow/SMC/2DFS-3694/G160M/G160M20/leeyac020_continuumfit.fits|1703.4119|0.00049633|13.2571|5.0|0.0|2|2|2|-20.0535|20.0535|1704.14336|1704.37136|0.00049633|NiII|none|
+/Users/billyli/Documents/float-for-morrow/SMC/2DFS-3694/G160M/G160M20/leeyac020_continuumfit.fits|1709.6042|0.00049633|13.2571|5.0|0.0|2|2|2|-20.0535|20.0535|1710.33832|1710.56715|0.00049633|NiII|none|
+/Users/billyli/Documents/float-for-morrow/SMC/2DFS-3694/G160M/G160M20/leeyac020_continuumfit.fits|1741.5531|0.00049633|13.2571|5.0|0.0|2|2|2|-20.0535|20.0535|1742.30094|1742.53405|0.00049633|NiII|none|
+/Users/billyli/Documents/float-for-morrow/SMC/2DFS-3694/G160M/G160M20/leeyac020_continuumfit.fits|1751.9157|0.00049633|13.2571|5.0|0.0|2|2|2|-20.0535|20.0535|1752.66799|1752.90248|0.00049633|NiII|none|
