@@ -1,0 +1,4 @@
+specfile|restwave|zsys|col|bval|vel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|z_comp|trans|rely|comment
+/Users/billyli/Documents/float-for-morrow/SMC/NGC346-ELS-13/G130M/G130M10/lek63c010_continuumfit.fits|1250.57800|0.00043502|15.3865|37.3329|0.0000|2|2|2|-61.8316|61.8316|1250.86401|1251.38009|0.00043502|SII|none|
+/Users/billyli/Documents/float-for-morrow/SMC/NGC346-ELS-13/G130M/G130M10/lek63c010_continuumfit.fits|1253.80500|0.00043502|15.3865|37.3329|0.0000|2|2|2|-61.8316|61.8316|1254.09174|1254.60916|0.00043502|SII|none|
+/Users/billyli/Documents/float-for-morrow/SMC/NGC346-ELS-13/G130M/G130M10/lek63c010_continuumfit.fits|1259.51800|0.00043502|15.3865|37.3329|0.0000|2|2|2|-61.8316|61.8316|1259.80605|1260.32582|0.00043502|SII|none|

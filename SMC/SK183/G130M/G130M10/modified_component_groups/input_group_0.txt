@@ -1,2 +1,2 @@
 specfile|restwave|zsys|col|bval|vel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|z_comp|trans|rely|comment
-/Users/billyli/Documents/float-for-morrow/SMC/SK183/G130M/G130M10/leth1c010_continuumfit.fits|1039.2304|0.00051306|15.6911|17.44525|0.0|2|2|2|-55.1471|55.1471|1039.57234|1039.95487|0.00051306|OI|none|
+/Users/billyli/Documents/float-for-morrow/SMC/SK183/G130M/G130M10/leth1c010_continuumfit.fits|1039.2304|0.00050748|15.6967|33.6974|0.0|2|2|2|-60.1604|60.1604|1039.54916|1039.96646|0.00050748|OI|none|
