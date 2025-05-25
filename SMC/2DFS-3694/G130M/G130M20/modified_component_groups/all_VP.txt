@@ -3,3 +3,4 @@
 ./modified_component_groups/input_group_4.VP
 ./modified_component_groups/input_group_0.VP
 ./modified_component_groups/input_group_1.VP
+./modified_component_groups/input_group_5.VP

@@ -1,3 +1,4 @@
 specfile|restwave|zsys|col|bval|vel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|z_comp|trans|rely|comment
-/Users/billyli/Documents/float-for-morrow/SMC/2DFS-3694/G130M/G130M20/leeyac010_continuumfit.fits|1317.21700|0.00046846|13.2992|10.0000|0.0000|2|2|2|-18.3824|18.3824|1317.75326|1317.91487|0.00046846|NiII|none|
-/Users/billyli/Documents/float-for-morrow/SMC/2DFS-3694/G130M/G130M20/leeyac010_continuumfit.fits|1370.13200|0.00046846|13.2992|10.0000|0.0000|2|2|2|-18.3824|18.3824|1370.68980|1370.85791|0.00046846|NiII|none|
+/Users/billyli/Documents/float-for-morrow/SMC/2DFS-3694/G130M/G130M20/leeyac010_continuumfit.fits|1250.57800|0.00048518|14.8347|10.0000|0.0000|2|2|2|-40.1070|40.1070|1251.01739|1251.35216|0.00048518|SII|none|
+/Users/billyli/Documents/float-for-morrow/SMC/2DFS-3694/G130M/G130M20/leeyac010_continuumfit.fits|1253.80500|0.00048518|14.8347|10.0000|0.0000|2|2|2|-40.1070|40.1070|1254.24552|1254.58116|0.00048518|SII|none|
+/Users/billyli/Documents/float-for-morrow/SMC/2DFS-3694/G130M/G130M20/leeyac010_continuumfit.fits|1259.51800|0.00048518|14.8347|10.0000|0.0000|2|2|2|-40.1070|40.1070|1259.96053|1260.29769|0.00048518|SII|none|

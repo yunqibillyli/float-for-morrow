@@ -1,0 +1,3 @@
+specfile|restwave|zsys|col|bval|vel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|z_comp|trans|rely|comment
+/Users/billyli/Documents/float-for-morrow/SMC/2DFS-3694/G130M/G130M20/leeyac010_continuumfit.fits|1358.77300|0.00042387|12.0000|10.0000|0.0000|2|2|2|-15.0401|15.0401|1359.28074|1359.41714|0.00042387|CuII|none|
+/Users/billyli/Documents/float-for-morrow/SMC/2DFS-3694/G130M/G130M20/leeyac010_continuumfit.fits|1367.95090|0.00042387|12.0000|10.0000|0.0000|2|2|2|-15.0401|15.0401|1368.46207|1368.59939|0.00042387|CuII|none|
