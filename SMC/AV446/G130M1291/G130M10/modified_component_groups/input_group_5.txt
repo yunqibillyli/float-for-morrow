@@ -1,0 +1,2 @@
+specfile|restwave|zsys|col|bval|vel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|z_comp|trans|rely|comment
+/Users/billyli/Documents/float-for-morrow/SMC/AV446/G130M1291/G130M10/lb2a03010_continuumfit.fits|1358.773|0.0005911|12.7278|5.0|0.0|2|2|2|-21.7246|21.7246|1359.47765|1359.67469|0.0005911|CuII|none|

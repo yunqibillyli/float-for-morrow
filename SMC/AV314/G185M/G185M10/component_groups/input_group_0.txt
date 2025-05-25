@@ -1,0 +1,7 @@
+specfile|restwave|zsys|col|bval|vel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|z_comp|trans|rely|comment
+/Users/billyli/Documents/float-for-morrow/SMC/AV314/G185M/G185M10/lemubc010_continuumfit.fits|2026.13700|0.00040714|13.8056|55.8065|0.0000|2|2|2|-73.5294|73.5294|2026.46484|2027.45914|0.00040714|ZnII|none|
+/Users/billyli/Documents/float-for-morrow/SMC/AV314/G185M/G185M10/lemubc010_continuumfit.fits|2062.66400|0.00040714|13.8056|55.8065|0.0000|2|2|2|-73.5294|73.5294|2062.99775|2064.00998|0.00040714|ZnII|none|
+/Users/billyli/Documents/float-for-morrow/SMC/AV314/G185M/G185M10/lemubc010_continuumfit.fits|2026.26900|0.00044059|12.8814|10.0000|0.0000|3|3|3|-23.3957|23.3957|2027.00356|2027.31996|0.00044059|CrII|none|
+/Users/billyli/Documents/float-for-morrow/SMC/AV314/G185M/G185M10/lemubc010_continuumfit.fits|2056.25690|0.00044059|12.8814|10.0000|0.0000|3|3|3|-23.3957|23.3957|2057.00233|2057.32341|0.00044059|CrII|none|
+/Users/billyli/Documents/float-for-morrow/SMC/AV314/G185M/G185M10/lemubc010_continuumfit.fits|2062.23400|0.00044059|12.8814|10.0000|0.0000|3|3|3|-23.3957|23.3957|2062.98160|2063.30361|0.00044059|CrII|none|
+/Users/billyli/Documents/float-for-morrow/SMC/AV314/G185M/G185M10/lemubc010_continuumfit.fits|2066.16100|0.00044059|12.8814|10.0000|0.0000|3|3|3|-23.3957|23.3957|2066.91002|2067.23265|0.00044059|CrII|none|

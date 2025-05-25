@@ -1,0 +1,6 @@
+specfile|restwave|zsys|col|bval|vel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|z_comp|trans|rely|comment
+/Users/billyli/Documents/float-for-morrow/SMC/AV314/G160M/G160M10/lemu2c010_continuumfit.fits|1454.842|0.00051306|13.5357|5.0|0.0|2|2|2|-18.3824|18.3824|1455.49917|1455.67767|0.00051306|NiII|none|
+/Users/billyli/Documents/float-for-morrow/SMC/AV314/G160M/G160M10/lemu2c010_continuumfit.fits|1703.4119|0.00051306|13.5357|5.0|0.0|2|2|2|-18.3824|18.3824|1704.18135|1704.39035|0.00051306|NiII|none|
+/Users/billyli/Documents/float-for-morrow/SMC/AV314/G160M/G160M10/lemu2c010_continuumfit.fits|1709.6042|0.00051306|13.5357|5.0|0.0|2|2|2|-18.3824|18.3824|1710.37644|1710.58621|0.00051306|NiII|none|
+/Users/billyli/Documents/float-for-morrow/SMC/AV314/G160M/G160M10/lemu2c010_continuumfit.fits|1741.5531|0.00051306|13.5357|5.0|0.0|2|2|2|-18.3824|18.3824|1742.33978|1742.55346|0.00051306|NiII|none|
+/Users/billyli/Documents/float-for-morrow/SMC/AV314/G160M/G160M10/lemu2c010_continuumfit.fits|1751.9157|0.00051306|13.5357|5.0|0.0|2|2|2|-18.3824|18.3824|1752.70706|1752.92201|0.00051306|NiII|none|

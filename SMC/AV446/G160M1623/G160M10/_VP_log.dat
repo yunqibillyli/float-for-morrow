@@ -1,0 +1,6 @@
+specfile|restwave|zsys|col|sigcol|bval|sigbval|vel|sigvel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|pix1|pix2|z_comp|trans|rely|comment 
+/Users/billyli/Documents/float-for-morrow/SMC/AV446/G160M1623/G160M10/lb2a03040_continuumfit.fits|1454.842|0.00046|14.122|0.022|19.68|1.62|0.883|1.027|2|2|2|-28.4091|28.4091|1455.3694492465327|1455.6451783435077|2778|2801|0.00046|NiII|none|-- 
+/Users/billyli/Documents/float-for-morrow/SMC/AV446/G160M1623/G160M10/lb2a03040_continuumfit.fits|1703.4119|0.00046|14.122|0.0|19.68|0.0|0.883|0.0|2|2|2|-28.4091|28.4091|1704.0294676280926|1704.3523069638857|24088|24114|0.00046|NiII|none|-- 
+/Users/billyli/Documents/float-for-morrow/SMC/AV446/G160M1623/G160M10/lb2a03040_continuumfit.fits|1709.6042|0.00046|14.122|0.0|19.68|0.0|0.883|0.0|2|2|2|-28.4091|28.4091|1710.2240126306215|1710.5480255627826|24594|24620|0.00046|NiII|none|-- 
+/Users/billyli/Documents/float-for-morrow/SMC/AV446/G160M1623/G160M10/lb2a03040_continuumfit.fits|1741.5531|0.00046|14.122|0.0|19.68|0.0|0.883|0.0|2|2|2|-28.4091|28.4091|1742.1844956226116|1742.5145636737109|27204|27231|0.00046|NiII|none|-- 
+/Users/billyli/Documents/float-for-morrow/SMC/AV446/G160M1623/G160M10/lb2a03040_continuumfit.fits|1751.9157|0.00046|14.122|0.0|19.68|0.0|0.883|0.0|2|2|2|-28.4091|28.4091|1752.5508525567404|1752.8828845807936|28051|28078|0.00046|NiII|none|-- 

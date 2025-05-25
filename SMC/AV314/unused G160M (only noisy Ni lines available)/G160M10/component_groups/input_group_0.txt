@@ -1,0 +1,11 @@
+specfile|restwave|zsys|col|bval|vel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|z_comp|trans|rely|comment
+/Users/billyli/Documents/float-for-morrow/SMC/AV314/G160M/G160M10/lemu2c010_continuumfit.fits|1454.84200|0.00051306|13.5357|10.0000|0.0000|2|2|2|-18.3824|18.3824|1455.49917|1455.67767|0.00051306|NiII|none|
+/Users/billyli/Documents/float-for-morrow/SMC/AV314/G160M/G160M10/lemu2c010_continuumfit.fits|1467.25900|0.00051306|13.5357|10.0000|0.0000|2|2|2|-18.3824|18.3824|1467.92177|1468.10180|0.00051306|NiII|none|
+/Users/billyli/Documents/float-for-morrow/SMC/AV314/G160M/G160M10/lemu2c010_continuumfit.fits|1467.75600|0.00051306|13.5357|10.0000|0.0000|2|2|2|-18.3824|18.3824|1468.41900|1468.59909|0.00051306|NiII|none|
+/Users/billyli/Documents/float-for-morrow/SMC/AV314/G160M/G160M10/lemu2c010_continuumfit.fits|1703.41190|0.00051306|13.5357|10.0000|0.0000|2|2|2|-18.3824|18.3824|1704.18135|1704.39035|0.00051306|NiII|none|
+/Users/billyli/Documents/float-for-morrow/SMC/AV314/G160M/G160M10/lemu2c010_continuumfit.fits|1709.60420|0.00051306|13.5357|10.0000|0.0000|2|2|2|-18.3824|18.3824|1710.37644|1710.58621|0.00051306|NiII|none|
+/Users/billyli/Documents/float-for-morrow/SMC/AV314/G160M/G160M10/lemu2c010_continuumfit.fits|1741.55310|0.00051306|13.5357|10.0000|0.0000|2|2|2|-18.3824|18.3824|1742.33978|1742.55346|0.00051306|NiII|none|
+/Users/billyli/Documents/float-for-morrow/SMC/AV314/G160M/G160M10/lemu2c010_continuumfit.fits|1751.91570|0.00051306|13.5357|10.0000|0.0000|2|2|2|-18.3824|18.3824|1752.70706|1752.92201|0.00051306|NiII|none|
+/Users/billyli/Documents/float-for-morrow/SMC/AV314/G160M/G160M10/lemu2c010_continuumfit.fits|1772.28000|0.00051306|13.5357|10.0000|0.0000|2|2|2|-18.3824|18.3824|1773.08055|1773.29801|0.00051306|NiII|none|
+/Users/billyli/Documents/float-for-morrow/SMC/AV314/G160M/G160M10/lemu2c010_continuumfit.fits|1773.94900|0.00051306|13.5357|10.0000|0.0000|2|2|2|-18.3824|18.3824|1774.75031|1774.96797|0.00051306|NiII|none|
+/Users/billyli/Documents/float-for-morrow/SMC/AV314/G160M/G160M10/lemu2c010_continuumfit.fits|1783.31800|0.00051306|13.5357|10.0000|0.0000|2|2|2|-18.3824|18.3824|1784.12354|1784.34235|0.00051306|NiII|none|
