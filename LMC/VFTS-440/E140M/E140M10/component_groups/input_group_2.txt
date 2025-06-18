@@ -1,0 +1,4 @@
+specfile|restwave|zsys|col|bval|vel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|z_comp|trans|rely|comment
+/Users/billyli/Documents/float-for-morrow/LMC/VFTS-440/E140M/E140M10/ody219010_continuumfit.fits|1250.57800|0.00093670|16.2422|17.5226|0.0000|2|2|2|-51.8048|51.8048|1251.53313|1251.96574|0.00093670|SII|none|
+/Users/billyli/Documents/float-for-morrow/LMC/VFTS-440/E140M/E140M10/ody219010_continuumfit.fits|1253.80500|0.00093670|16.2422|17.5226|0.0000|2|2|2|-51.8048|51.8048|1254.76259|1255.19632|0.00093670|SII|none|
+/Users/billyli/Documents/float-for-morrow/LMC/VFTS-440/E140M/E140M10/ody219010_continuumfit.fits|1259.51800|0.00093670|16.2422|17.5226|0.0000|2|2|2|-51.8048|51.8048|1260.47996|1260.91566|0.00093670|SII|none|

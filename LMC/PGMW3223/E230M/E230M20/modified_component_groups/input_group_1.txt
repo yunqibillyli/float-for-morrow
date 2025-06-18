@@ -1,2 +1,2 @@
 specfile|restwave|zsys|col|bval|vel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|z_comp|trans|rely|comment
-C:/Users/Billy/Desktop/float of dawn/PGMW3223/E230M\E230M20\oda974020_continuumfit.fits|1808.0129|0.00090521|15.9208|7.51865|0.0|2|2|2|-22.7634|22.7634|1809.51213|1809.78695|0.00090521|SiII|none|
+/Users/billyli/Documents/float-for-morrow/LMC/PGMW3223/E230M/E230M20/oda974020_continuumfit.fits|1808.0129|0.00090521|15.9208|7.51865|0.0|2|2|2|-22.7634|22.7634|1809.51213|1809.78695|0.00090521|SiII|none|

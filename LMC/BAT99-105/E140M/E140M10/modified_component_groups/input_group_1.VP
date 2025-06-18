@@ -1,0 +1,3 @@
+specfile|restwave|zsys|col|sigcol|bval|sigbval|vel|sigvel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|pix1|pix2|z_comp|trans|rely|comment 
+/Users/billyli/Documents/float-for-morrow/LMC/BAT99-105/E140M/E140M10/oeb71s010_continuumfit.fits|1239.9253|0.00092|16.435|0.045|20.47|2.269|-6.213|1.616|2|2|2|-33.4225|33.4225|1240.9277728354082|1241.20424011958|10612|10633|0.0009|MgII|none|-- 
+/Users/billyli/Documents/float-for-morrow/LMC/BAT99-105/E140M/E140M10/oeb71s010_continuumfit.fits|1240.3947|0.00092|16.435|0.0|20.47|0.0|-6.213|0.0|2|2|2|-33.4225|33.4225|1241.3975523427453|1241.6741242894666|10648|10668|0.0009|MgII|none|-- 

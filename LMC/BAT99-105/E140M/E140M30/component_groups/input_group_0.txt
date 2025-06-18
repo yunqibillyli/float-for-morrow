@@ -1,0 +1,7 @@
+specfile|restwave|zsys|col|bval|vel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|z_comp|trans|rely|comment
+/Users/billyli/Documents/float-for-morrow/LMC/BAT99-105/E140M/E140M30/oeb71t010_continuumfit.fits|1142.36560|0.00091440|15.4220|23.0087|0.0000|2|2|2|-41.7781|41.7781|1143.25085|1143.56954|0.00091440|FeII|none|
+/Users/billyli/Documents/float-for-morrow/LMC/BAT99-105/E140M/E140M30/oeb71t010_continuumfit.fits|1143.22600|0.00091440|15.4220|23.0087|0.0000|2|2|2|-41.7781|41.7781|1144.11192|1144.43084|0.00091440|FeII|none|
+/Users/billyli/Documents/float-for-morrow/LMC/BAT99-105/E140M/E140M30/oeb71t010_continuumfit.fits|1144.93790|0.00091440|15.4220|23.0087|0.0000|2|2|2|-41.7781|41.7781|1145.82514|1146.14455|0.00091440|FeII|none|
+/Users/billyli/Documents/float-for-morrow/LMC/BAT99-105/E140M/E140M30/oeb71t010_continuumfit.fits|1260.53300|0.00091440|15.4220|23.0087|0.0000|2|2|2|-41.7781|41.7781|1261.50982|1261.86147|0.00091440|FeII|none|
+/Users/billyli/Documents/float-for-morrow/LMC/BAT99-105/E140M/E140M30/oeb71t010_continuumfit.fits|1608.45110|0.00091440|15.4220|23.0087|0.0000|2|2|2|-41.7781|41.7781|1609.69753|1610.14624|0.00091440|FeII|none|
+/Users/billyli/Documents/float-for-morrow/LMC/BAT99-105/E140M/E140M30/oeb71t010_continuumfit.fits|1611.20050|0.00091440|15.4220|23.0087|0.0000|2|2|2|-41.7781|41.7781|1612.44906|1612.89854|0.00091440|FeII|none|

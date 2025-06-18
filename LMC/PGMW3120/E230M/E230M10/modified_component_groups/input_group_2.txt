@@ -1,2 +1,2 @@
 specfile|restwave|zsys|col|bval|vel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|z_comp|trans|rely|comment
-/Users/billyli/Documents/float-for-morrow/LH10-3020/E230M/E230M10/oda912010_continuumfit.fits|1808.0129|0.00095267|15.5548|5.0|0.0|2|2|2|-14.2271|14.2271|1809.64946|1809.82122|0.00095267|SiII|none|
+/Users/billyli/Documents/float-for-morrow/LMC/PGMW3120/E230M/E230M10/oda912010_continuumfit.fits|1808.0129|0.00095267|15.5548|5.0|0.0|2|2|2|-14.2271|14.2271|1809.64946|1809.82122|0.00095267|SiII|none|
