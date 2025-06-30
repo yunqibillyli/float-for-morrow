@@ -1,2 +1,4 @@
 specfile|restwave|zsys|col|sigcol|bval|sigbval|vel|sigvel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|pix1|pix2|z_comp|trans|rely|comment 
-/Users/billyli/Documents/float-for-morrow/LMC/PGMW3120/E230M/E230M20/oda912020_continuumfit.fits|2062.664|0.00093|14.055|11.661|5.031|21.318|0.283|3.31|2|2|2|-16.1241|16.1241|2064.467481588145|2064.689359088495|28220|28226|0.00093|ZnII|none|-- 
+/Users/billyli/Documents/float-for-morrow/LMC/PGMW3120/E230M/E230M20/oda912020_continuumfit.fits|2056.2569|0.00095|13.606|0.062|12.661|3.12|-4.176|1.959|3|3|3|-10.0267|10.0267|2058.1486039728065|2058.2861489343895|28012|28020|0.00094|CrII|none|-- 
+/Users/billyli/Documents/float-for-morrow/LMC/PGMW3120/E230M/E230M20/oda912020_continuumfit.fits|2066.161|0.00095|13.606|0.0|12.661|0.0|-4.176|0.0|3|3|3|-10.0267|10.0267|2068.0618154925382|2068.2000229487026|28384|28392|0.00094|CrII|none|-- 
+/Users/billyli/Documents/float-for-morrow/LMC/PGMW3120/E230M/E230M20/oda912020_continuumfit.fits|2062.664|0.00094|13.525|0.079|15.0|3.147|-6.53|2.098|2|2|2|-28.4091|28.4091|2064.400634053168|2064.791560684433|28218|28229|0.00091|ZnII|none|-- 

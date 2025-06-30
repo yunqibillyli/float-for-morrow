@@ -1,0 +1,29 @@
+[target_info]
+problem    = "pgmw3120"
+target     = "PGMW3120"
+spec_file  = "oda912020_x1d.fits"
+model_file = "/Users/billyli/Documents/float-for-morrow/LMC/powr-OB-lmc-vd3_fixedgrid.nc"
+instrument = "stis_e230m"
+
+[include_wave_range]
+wave_range = [ 1600, 3100,]
+
+[exclude_wave_ranges]
+
+[vshift]
+min = 50
+max = 550
+delta = 50
+
+[vsini]
+min = 50
+max = 350
+delta = 50
+
+[exclude_vranges.ions]
+linelist = "ISM"
+vrange = [-75, 350]
+drop_species = []
+
+[target_info.plot_ranges_kwargs.all_merged]
+color = "gainsboro"

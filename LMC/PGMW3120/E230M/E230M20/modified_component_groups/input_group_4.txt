@@ -1,2 +1,0 @@
-specfile|restwave|zsys|col|bval|vel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|z_comp|trans|rely|comment
-C:/Users/Billy/Documents/BillyJessExploratory/04232025/LH10-3020/E230M\E230M20\oda912020_continuumfit.fits|2062.664|0.00092813|13.0766|5.0|0.0|2|2|2|-16.1241|16.1241|2064.46738|2064.68947|0.00092813|ZnII|none|
