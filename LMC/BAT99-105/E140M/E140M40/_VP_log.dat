@@ -1,0 +1,19 @@
+specfile|restwave|zsys|col|sigcol|bval|sigbval|vel|sigvel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|pix1|pix2|z_comp|trans|rely|comment 
+/Users/billyli/Documents/float-for-morrow/LMC/BAT99-105/E140M/E140M40/oeb71t020_continuumfit.fits|1358.773|0.00088|13.183|0.065|22.91|5.558|2.799|3.558|2|2|2|-26.738|26.738|1359.8412559626945|1360.0836294547855|21193|21210|0.00088|CuII|none|-- 
+specfile|restwave|zsys|col|sigcol|bval|sigbval|vel|sigvel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|pix1|pix2|z_comp|trans|rely|comment 
+/Users/billyli/Documents/float-for-morrow/LMC/BAT99-105/E140M/E140M40/oeb71t020_continuumfit.fits|1608.4511|0.00091|15.755|0.053|33.38|1.841|-10.674|2.316|2|2|2|-31.7513|31.7513|1609.7515151234304|1610.09222024825|38506|38526|0.00088|FeII|none|-- 
+/Users/billyli/Documents/float-for-morrow/LMC/BAT99-105/E140M/E140M40/oeb71t020_continuumfit.fits|1611.2005|0.00091|15.755|0.0|33.38|0.0|-10.674|0.0|2|2|2|-31.7513|31.7513|1612.5031379832612|1612.8444254911387|38666|38686|0.00088|FeII|none|-- 
+specfile|restwave|zsys|col|sigcol|bval|sigbval|vel|sigvel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|pix1|pix2|z_comp|trans|rely|comment 
+/Users/billyli/Documents/float-for-morrow/LMC/BAT99-105/E140M/E140M40/oeb71t020_continuumfit.fits|1239.9253|0.00091|16.54|0.048|20.886|2.87|3.061|1.973|2|2|2|-43.4492|43.4492|1240.8724777824846|1241.2318848383136|10607|10635|0.00092|MgII|none|-- 
+/Users/billyli/Documents/float-for-morrow/LMC/BAT99-105/E140M/E140M40/oeb71t020_continuumfit.fits|1240.3947|0.00091|16.54|0.0|20.886|0.0|3.061|0.0|2|2|2|-43.4492|43.4492|1241.3422363567076|1241.7017794736944|10643|10670|0.00092|MgII|none|-- 
+specfile|restwave|zsys|col|sigcol|bval|sigbval|vel|sigvel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|pix1|pix2|z_comp|trans|rely|comment 
+/Users/billyli/Documents/float-for-morrow/LMC/BAT99-105/E140M/E140M40/oeb71t020_continuumfit.fits|1250.578|0.00086|17.983|0.726|23.362|3.154|-2.391|0.632|2|2|2|-71.8583|71.8583|1251.352065902369|1251.951576708591|11628|11673|0.00085|S II|none|-- 
+/Users/billyli/Documents/float-for-morrow/LMC/BAT99-105/E140M/E140M40/oeb71t020_continuumfit.fits|1253.805|0.00086|17.983|0.0|23.362|0.0|-2.391|0.0|2|2|2|-71.8583|71.8583|1254.5810633073027|1255.1821210952976|11869|11914|0.00085|S II|none|-- 
+specfile|restwave|zsys|col|sigcol|bval|sigbval|vel|sigvel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|pix1|pix2|z_comp|trans|rely|comment 
+/Users/billyli/Documents/float-for-morrow/LMC/BAT99-105/E140M/E140M40/oeb71t020_continuumfit.fits|1355.5977|0.00091|18.441|0.073|20.0|5.654|-2.725|3.56|2|2|2|-18.3824|18.3824|1356.7541372358082|1356.9203798379522|20980|20992|0.00091|O I|none|-- 
+specfile|restwave|zsys|col|sigcol|bval|sigbval|vel|sigvel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|pix1|pix2|z_comp|trans|rely|comment 
+/Users/billyli/Documents/float-for-morrow/LMC/BAT99-105/E140M/E140M40/oeb71t020_continuumfit.fits|1317.217|0.00091|14.337|0.018|31.3|1.838|5.966|1.231|2|2|2|-36.7647|36.7647|1318.252590948726|1318.575661703494|17758|17781|0.00093|NiII|none|-- 
+/Users/billyli/Documents/float-for-morrow/LMC/BAT99-105/E140M/E140M40/oeb71t020_continuumfit.fits|1370.132|0.00091|14.337|0.0|31.3|0.0|5.966|0.0|2|2|2|-36.7647|36.7647|1371.2091925185903|1371.5452416125297|22133|22156|0.00093|NiII|none|-- 
+/Users/billyli/Documents/float-for-morrow/LMC/BAT99-105/E140M/E140M40/oeb71t020_continuumfit.fits|1454.842|0.00091|14.337|0.0|31.3|0.0|5.966|0.0|2|2|2|-36.7647|36.7647|1455.9857911953964|1456.3426169143236|28538|28561|0.00093|NiII|none|-- 
+specfile|restwave|zsys|col|sigcol|bval|sigbval|vel|sigvel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|pix1|pix2|z_comp|trans|rely|comment 
+/Users/billyli/Documents/float-for-morrow/LMC/BAT99-105/E140M/E140M40/oeb71t020_continuumfit.fits|1358.773|0.00088|13.183|0.065|22.91|5.558|2.799|3.558|2|2|2|-26.738|26.738|1359.8412559626945|1360.0836294547855|21193|21210|0.00088|CuII|none|-- 
