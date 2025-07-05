@@ -1,0 +1,11 @@
+specfile|restwave|zsys|col|bval|vel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|z_comp|trans|rely|comment
+/Users/billyli/Documents/float-for-morrow/LMC/VFTS-482/G160M/G160M10/lehd2c020_continuumfit.fits|1454.84200|0.00097015|14.0025|26.2700|0.0000|2|2|2|-38.4358|38.4358|1456.06672|1456.44012|0.00097015|NiII|none|
+/Users/billyli/Documents/float-for-morrow/LMC/VFTS-482/G160M/G160M10/lehd2c020_continuumfit.fits|1467.25900|0.00097015|14.0025|26.2700|0.0000|2|2|2|-38.4358|38.4358|1468.49417|1468.87076|0.00097015|NiII|none|
+/Users/billyli/Documents/float-for-morrow/LMC/VFTS-482/G160M/G160M10/lehd2c020_continuumfit.fits|1467.75600|0.00097015|14.0025|26.2700|0.0000|2|2|2|-38.4358|38.4358|1468.99159|1469.36831|0.00097015|NiII|none|
+/Users/billyli/Documents/float-for-morrow/LMC/VFTS-482/G160M/G160M10/lehd2c020_continuumfit.fits|1703.41190|0.00097015|14.0025|26.2700|0.0000|2|2|2|-38.4358|38.4358|1704.84587|1705.28307|0.00097015|NiII|none|
+/Users/billyli/Documents/float-for-morrow/LMC/VFTS-482/G160M/G160M10/lehd2c020_continuumfit.fits|1709.60420|0.00097015|14.0025|26.2700|0.0000|2|2|2|-38.4358|38.4358|1711.04338|1711.48218|0.00097015|NiII|none|
+/Users/billyli/Documents/float-for-morrow/LMC/VFTS-482/G160M/G160M10/lehd2c020_continuumfit.fits|1741.55310|0.00097015|14.0025|26.2700|0.0000|2|2|2|-38.4358|38.4358|1743.01918|1743.46617|0.00097015|NiII|none|
+/Users/billyli/Documents/float-for-morrow/LMC/VFTS-482/G160M/G160M10/lehd2c020_continuumfit.fits|1751.91570|0.00097015|14.0025|26.2700|0.0000|2|2|2|-38.4358|38.4358|1753.39050|1753.84015|0.00097015|NiII|none|
+/Users/billyli/Documents/float-for-morrow/LMC/VFTS-482/G160M/G160M10/lehd2c020_continuumfit.fits|1772.28000|0.00097015|14.0025|26.2700|0.0000|2|2|2|-38.4358|38.4358|1773.77194|1774.22682|0.00097015|NiII|none|
+/Users/billyli/Documents/float-for-morrow/LMC/VFTS-482/G160M/G160M10/lehd2c020_continuumfit.fits|1773.94900|0.00097015|14.0025|26.2700|0.0000|2|2|2|-38.4358|38.4358|1775.44235|1775.89766|0.00097015|NiII|none|
+/Users/billyli/Documents/float-for-morrow/LMC/VFTS-482/G160M/G160M10/lehd2c020_continuumfit.fits|1783.31800|0.00097015|14.0025|26.2700|0.0000|2|2|2|-38.4358|38.4358|1784.81923|1785.27695|0.00097015|NiII|none|

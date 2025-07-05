@@ -1,0 +1,4 @@
+specfile|restwave|zsys|col|bval|vel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|z_comp|trans|rely|comment
+/Users/billyli/Documents/float-for-morrow/LMC/VFTS-285/G130M1291/G130M20/lcut02020_continuumfit.fits|1250.57800|0.00086423|15.8953|34.3057|0.0000|2|2|2|-63.5027|63.5027|1251.39369|1251.92395|0.00086423|SII|none|
+/Users/billyli/Documents/float-for-morrow/LMC/VFTS-285/G130M1291/G130M20/lcut02020_continuumfit.fits|1253.80500|0.00086423|15.8953|34.3057|0.0000|2|2|2|-63.5027|63.5027|1254.62280|1255.15442|0.00086423|SII|none|
+/Users/billyli/Documents/float-for-morrow/LMC/VFTS-285/G130M1291/G130M20/lcut02020_continuumfit.fits|1259.51800|0.00086423|15.8953|34.3057|0.0000|2|2|2|-63.5027|63.5027|1260.33952|1260.87357|0.00086423|SII|none|

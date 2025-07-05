@@ -24,7 +24,7 @@ delta = 50
 
 [exclude_vranges.ions]
 linelist = "ISM"
-vrange = [-75, 350]
+vrange = [-25, 300]
 drop_species = []
 
 [target_info.plot_ranges_kwargs.all_merged]

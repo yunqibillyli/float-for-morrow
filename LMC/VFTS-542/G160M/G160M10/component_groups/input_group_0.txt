@@ -1,0 +1,11 @@
+specfile|restwave|zsys|col|bval|vel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|z_comp|trans|rely|comment
+/Users/billyli/Documents/float-for-morrow/LMC/VFTS-542/G160M/G160M10/lf2t1c020_continuumfit.fits|1454.84200|0.00094227|14.2089|26.5122|0.0000|2|2|2|-40.1070|40.1070|1456.01806|1456.40769|0.00094227|NiII|none|
+/Users/billyli/Documents/float-for-morrow/LMC/VFTS-542/G160M/G160M10/lf2t1c020_continuumfit.fits|1467.25900|0.00094227|14.2089|26.5122|0.0000|2|2|2|-40.1070|40.1070|1468.44509|1468.83805|0.00094227|NiII|none|
+/Users/billyli/Documents/float-for-morrow/LMC/VFTS-542/G160M/G160M10/lf2t1c020_continuumfit.fits|1467.75600|0.00094227|14.2089|26.5122|0.0000|2|2|2|-40.1070|40.1070|1468.94250|1469.33559|0.00094227|NiII|none|
+/Users/billyli/Documents/float-for-morrow/LMC/VFTS-542/G160M/G160M10/lf2t1c020_continuumfit.fits|1703.41190|0.00094227|14.2089|26.5122|0.0000|2|2|2|-40.1070|40.1070|1704.78889|1705.24510|0.00094227|NiII|none|
+/Users/billyli/Documents/float-for-morrow/LMC/VFTS-542/G160M/G160M10/lf2t1c020_continuumfit.fits|1709.60420|0.00094227|14.2089|26.5122|0.0000|2|2|2|-40.1070|40.1070|1710.98620|1711.44406|0.00094227|NiII|none|
+/Users/billyli/Documents/float-for-morrow/LMC/VFTS-542/G160M/G160M10/lf2t1c020_continuumfit.fits|1741.55310|0.00094227|14.2089|26.5122|0.0000|2|2|2|-40.1070|40.1070|1742.96093|1743.42734|0.00094227|NiII|none|
+/Users/billyli/Documents/float-for-morrow/LMC/VFTS-542/G160M/G160M10/lf2t1c020_continuumfit.fits|1751.91570|0.00094227|14.2089|26.5122|0.0000|2|2|2|-40.1070|40.1070|1753.33190|1753.80110|0.00094227|NiII|none|
+/Users/billyli/Documents/float-for-morrow/LMC/VFTS-542/G160M/G160M10/lf2t1c020_continuumfit.fits|1772.28000|0.00094227|14.2089|26.5122|0.0000|2|2|2|-40.1070|40.1070|1773.71267|1774.18731|0.00094227|NiII|none|
+/Users/billyli/Documents/float-for-morrow/LMC/VFTS-542/G160M/G160M10/lf2t1c020_continuumfit.fits|1773.94900|0.00094227|14.2089|26.5122|0.0000|2|2|2|-40.1070|40.1070|1775.38302|1775.85811|0.00094227|NiII|none|
+/Users/billyli/Documents/float-for-morrow/LMC/VFTS-542/G160M/G160M10/lf2t1c020_continuumfit.fits|1783.31800|0.00094227|14.2089|26.5122|0.0000|2|2|2|-40.1070|40.1070|1784.75959|1785.23719|0.00094227|NiII|none|
