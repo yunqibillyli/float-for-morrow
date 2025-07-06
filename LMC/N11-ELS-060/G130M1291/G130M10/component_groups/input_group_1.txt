@@ -1,0 +1,3 @@
+specfile|restwave|zsys|col|bval|vel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|z_comp|trans|rely|comment
+/Users/billyli/Documents/float-for-morrow/LMC/N11-ELS-060/G130M1291/G130M10/lehf1c010_continuumfit.fits|1152.81800|0.00084194|13.7556|26.9319|0.0000|2|2|2|-43.4492|43.4492|1153.62139|1153.95583|0.00084194|PII|none|
+/Users/billyli/Documents/float-for-morrow/LMC/N11-ELS-060/G130M1291/G130M10/lehf1c010_continuumfit.fits|1301.87400|0.00084194|13.7556|26.9319|0.0000|2|2|2|-43.4492|43.4492|1302.78127|1303.15895|0.00084194|PII|none|

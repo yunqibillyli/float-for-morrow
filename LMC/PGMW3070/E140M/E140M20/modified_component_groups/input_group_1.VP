@@ -1,0 +1,3 @@
+specfile|restwave|zsys|col|sigcol|bval|sigbval|vel|sigvel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|pix1|pix2|z_comp|trans|rely|comment 
+/Users/billyli/Documents/float-for-morrow/LMC/PGMW3070/E140M/E140M20/oeuf2s020_continuumfit.fits|1239.9253|0.00095|16.544|0.383|5.254|1.691|-2.496|0.911|2|2|2|-23.3957|23.3957|1241.0107062368634|1241.204232922189|10617|10631|0.00095|MgII|none|-- 
+/Users/billyli/Documents/float-for-morrow/LMC/PGMW3070/E140M/E140M20/oeuf2s020_continuumfit.fits|1240.3947|0.00095|16.544|0.0|5.254|0.0|-2.496|0.0|2|2|2|-23.3957|23.3957|1241.4805171403973|1241.674117089351|10652|10667|0.00095|MgII|none|-- 

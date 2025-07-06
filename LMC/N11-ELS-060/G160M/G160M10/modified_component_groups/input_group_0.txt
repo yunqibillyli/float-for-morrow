@@ -1,0 +1,5 @@
+specfile|restwave|zsys|col|bval|vel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|z_comp|trans|rely|comment
+/Users/billyli/Documents/float-for-morrow/LMC/N11-ELS-060/G160M/G160M10/lehf1c020_continuumfit.fits|1454.842|0.00090883|13.8614|7.58495|0.0|2|2|2|-26.738|26.738|1456.03433|1456.29408|0.00090883|NiII|none|
+/Users/billyli/Documents/float-for-morrow/LMC/N11-ELS-060/G160M/G160M10/lehf1c020_continuumfit.fits|1709.6042|0.00090883|13.8614|7.58495|0.0|2|2|2|-26.738|26.738|1711.00533|1711.31056|0.00090883|NiII|none|
+/Users/billyli/Documents/float-for-morrow/LMC/N11-ELS-060/G160M/G160M10/lehf1c020_continuumfit.fits|1741.5531|0.00090883|13.8614|7.58495|0.0|2|2|2|-26.738|26.738|1742.98041|1743.29135|0.00090883|NiII|none|
+/Users/billyli/Documents/float-for-morrow/LMC/N11-ELS-060/G160M/G160M10/lehf1c020_continuumfit.fits|1751.9157|0.00090883|13.8614|7.58495|0.0|2|2|2|-26.738|26.738|1753.35151|1753.66429|0.00090883|NiII|none|

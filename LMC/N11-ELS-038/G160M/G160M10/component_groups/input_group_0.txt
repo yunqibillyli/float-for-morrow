@@ -1,0 +1,11 @@
+specfile|restwave|zsys|col|bval|vel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|z_comp|trans|rely|comment
+/Users/billyli/Documents/float-for-morrow/LMC/N11-ELS-038/G160M/G160M10/leak2c020_continuumfit.fits|1454.84200|0.00094785|13.8217|10.0000|0.0000|2|2|2|-25.0668|25.0668|1456.09921|1456.34273|0.00094785|NiII|none|
+/Users/billyli/Documents/float-for-morrow/LMC/N11-ELS-038/G160M/G160M10/leak2c020_continuumfit.fits|1467.25900|0.00094785|13.8217|10.0000|0.0000|2|2|2|-25.0668|25.0668|1468.52694|1468.77254|0.00094785|NiII|none|
+/Users/billyli/Documents/float-for-morrow/LMC/N11-ELS-038/G160M/G160M10/leak2c020_continuumfit.fits|1467.75600|0.00094785|13.8217|10.0000|0.0000|2|2|2|-25.0668|25.0668|1469.02437|1469.27006|0.00094785|NiII|none|
+/Users/billyli/Documents/float-for-morrow/LMC/N11-ELS-038/G160M/G160M10/leak2c020_continuumfit.fits|1703.41190|0.00094785|13.8217|10.0000|0.0000|2|2|2|-25.0668|25.0668|1704.88392|1705.16905|0.00094785|NiII|none|
+/Users/billyli/Documents/float-for-morrow/LMC/N11-ELS-038/G160M/G160M10/leak2c020_continuumfit.fits|1709.60420|0.00094785|13.8217|10.0000|0.0000|2|2|2|-25.0668|25.0668|1711.08157|1711.36773|0.00094785|NiII|none|
+/Users/billyli/Documents/float-for-morrow/LMC/N11-ELS-038/G160M/G160M10/leak2c020_continuumfit.fits|1741.55310|0.00094785|13.8217|10.0000|0.0000|2|2|2|-25.0668|25.0668|1743.05808|1743.34959|0.00094785|NiII|none|
+/Users/billyli/Documents/float-for-morrow/LMC/N11-ELS-038/G160M/G160M10/leak2c020_continuumfit.fits|1751.91570|0.00094785|13.8217|10.0000|0.0000|2|2|2|-25.0668|25.0668|1753.42963|1753.72288|0.00094785|NiII|none|
+/Users/billyli/Documents/float-for-morrow/LMC/N11-ELS-038/G160M/G160M10/leak2c020_continuumfit.fits|1772.28000|0.00094785|13.8217|10.0000|0.0000|2|2|2|-25.0668|25.0668|1773.81153|1774.10819|0.00094785|NiII|none|
+/Users/billyli/Documents/float-for-morrow/LMC/N11-ELS-038/G160M/G160M10/leak2c020_continuumfit.fits|1773.94900|0.00094785|13.8217|10.0000|0.0000|2|2|2|-25.0668|25.0668|1775.48197|1775.77891|0.00094785|NiII|none|
+/Users/billyli/Documents/float-for-morrow/LMC/N11-ELS-038/G160M/G160M10/leak2c020_continuumfit.fits|1783.31800|0.00094785|13.8217|10.0000|0.0000|2|2|2|-25.0668|25.0668|1784.85907|1785.15757|0.00094785|NiII|none|
