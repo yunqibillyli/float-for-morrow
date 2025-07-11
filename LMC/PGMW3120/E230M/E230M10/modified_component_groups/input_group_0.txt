@@ -1,2 +1,0 @@
-specfile|restwave|zsys|col|bval|vel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|z_comp|trans|rely|comment
-/Users/billyli/Documents/float-for-morrow/LMC/PGMW3120/E230M/E230M10/oda912010_continuumfit.fits|1808.0129|0.0009367|15.9306|5.0|0.0|2|2|2|-25.0668|25.0668|1809.55515|1809.85779|0.0009367|SiII|none|

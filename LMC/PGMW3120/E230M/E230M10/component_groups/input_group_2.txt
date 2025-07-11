@@ -1,7 +1,0 @@
-specfile|restwave|zsys|col|bval|vel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|z_comp|trans|rely|comment
-/Users/billyli/Documents/float-for-morrow/LMC/PGMW3120/E230M/E230M10/oda912010_continuumfit.fits|2026.26900|0.00092555|12.9738|10.0000|0.0000|2|2|2|-15.0401|15.0401|2028.04267|2028.24617|0.00092555|CrII|none|
-/Users/billyli/Documents/float-for-morrow/LMC/PGMW3120/E230M/E230M10/oda912010_continuumfit.fits|2056.25690|0.00092555|12.9738|10.0000|0.0000|2|2|2|-15.0401|15.0401|2058.05682|2058.26333|0.00092555|CrII|none|
-/Users/billyli/Documents/float-for-morrow/LMC/PGMW3120/E230M/E230M10/oda912010_continuumfit.fits|2062.23400|0.00092555|12.9738|10.0000|0.0000|2|2|2|-15.0401|15.0401|2064.03915|2064.24626|0.00092555|CrII|none|
-/Users/billyli/Documents/float-for-morrow/LMC/PGMW3120/E230M/E230M10/oda912010_continuumfit.fits|2066.16100|0.00092555|12.9738|10.0000|0.0000|2|2|2|-15.0401|15.0401|2067.96959|2068.17709|0.00092555|CrII|none|
-/Users/billyli/Documents/float-for-morrow/LMC/PGMW3120/E230M/E230M10/oda912010_continuumfit.fits|2026.13700|0.00095342|13.1731|10.0000|0.0000|3|3|3|-20.0535|20.0535|2027.93311|2028.20443|0.00095342|ZnII|none|
-/Users/billyli/Documents/float-for-morrow/LMC/PGMW3120/E230M/E230M10/oda912010_continuumfit.fits|2062.66400|0.00095342|13.1731|10.0000|0.0000|3|3|3|-20.0535|20.0535|2064.49249|2064.76870|0.00095342|ZnII|none|

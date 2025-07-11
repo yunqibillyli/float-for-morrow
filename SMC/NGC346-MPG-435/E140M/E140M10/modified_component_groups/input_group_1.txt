@@ -1,3 +1,0 @@
-specfile|restwave|zsys|col|bval|vel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|z_comp|trans|rely|comment
-/Users/billyli/Documents/float-for-morrow/SMC/NGC346-MPG-435/E140M/E140M10/oeuaas010_continuumfit.fits|1239.9253|0.00046846|15.643|8.5473|0.0|2|2|2|-25.0668|25.0668|1240.40244|1240.60989|0.00046846|MgII|none|
-/Users/billyli/Documents/float-for-morrow/SMC/NGC346-MPG-435/E140M/E140M10/oeuaas010_continuumfit.fits|1240.3947|0.00046846|15.643|8.5473|0.0|2|2|2|-25.0668|25.0668|1240.87202|1241.07954|0.00046846|MgII|none|

@@ -1,8 +1,0 @@
-specfile|restwave|zsys|col|bval|vel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|z_comp|trans|rely|comment
-/Users/billyli/Documents/float-for-morrow/LMC/PGMW3070/E140M/E140M10/oeuf2s010_continuumfit.fits|1317.21700|0.00094227|13.8743|10.0000|0.0000|2|2|2|-20.0535|20.0535|1318.36999|1318.54638|0.00094227|NiII|none|
-/Users/billyli/Documents/float-for-morrow/LMC/PGMW3070/E140M/E140M10/oeuf2s010_continuumfit.fits|1370.13200|0.00094227|13.8743|10.0000|0.0000|2|2|2|-20.0535|20.0535|1371.33131|1371.51478|0.00094227|NiII|none|
-/Users/billyli/Documents/float-for-morrow/LMC/PGMW3070/E140M/E140M10/oeuf2s010_continuumfit.fits|1454.84200|0.00094227|13.8743|10.0000|0.0000|2|2|2|-20.0535|20.0535|1456.11546|1456.31027|0.00094227|NiII|none|
-/Users/billyli/Documents/float-for-morrow/LMC/PGMW3070/E140M/E140M10/oeuf2s010_continuumfit.fits|1467.25900|0.00094227|13.8743|10.0000|0.0000|2|2|2|-20.0535|20.0535|1468.54332|1468.73980|0.00094227|NiII|none|
-/Users/billyli/Documents/float-for-morrow/LMC/PGMW3070/E140M/E140M10/oeuf2s010_continuumfit.fits|1467.75600|0.00094227|13.8743|10.0000|0.0000|2|2|2|-20.0535|20.0535|1469.04076|1469.23730|0.00094227|NiII|none|
-/Users/billyli/Documents/float-for-morrow/LMC/PGMW3070/E140M/E140M10/oeuf2s010_continuumfit.fits|1703.41190|0.00094227|13.8743|10.0000|0.0000|2|2|2|-20.0535|20.0535|1704.90293|1705.13104|0.00094227|NiII|none|
-/Users/billyli/Documents/float-for-morrow/LMC/PGMW3070/E140M/E140M10/oeuf2s010_continuumfit.fits|1709.60420|0.00094227|13.8743|10.0000|0.0000|2|2|2|-20.0535|20.0535|1711.10065|1711.32958|0.00094227|NiII|none|
