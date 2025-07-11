@@ -1,0 +1,2 @@
+specfile|restwave|zsys|col|bval|vel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|z_comp|trans|rely|comment
+/Users/billyli/Documents/float-for-morrow/SMC/NGC346-MPG-602/E140M/E140M10/oe4x04010_continuumfit.fits|1611.2005|0.00049633|16.5391|5.0|0.0|2|2|2|-30.0802|30.0802|1611.83846|1612.16194|0.00049633|FeII|none|

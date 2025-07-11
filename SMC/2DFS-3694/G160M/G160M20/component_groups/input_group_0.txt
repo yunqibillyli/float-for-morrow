@@ -1,0 +1,11 @@
+specfile|restwave|zsys|col|bval|vel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|z_comp|trans|rely|comment
+/Users/billyli/Documents/float-for-morrow/SMC/2DFS-3694/G160M/G160M20/leeyac020_continuumfit.fits|1454.84200|0.00050191|13.2584|10.0000|0.0000|2|2|2|-21.7246|21.7246|1455.46672|1455.67768|0.00050191|NiII|none|
+/Users/billyli/Documents/float-for-morrow/SMC/2DFS-3694/G160M/G160M20/leeyac020_continuumfit.fits|1467.25900|0.00050191|13.2584|10.0000|0.0000|2|2|2|-21.7246|21.7246|1467.88905|1468.10181|0.00050191|NiII|none|
+/Users/billyli/Documents/float-for-morrow/SMC/2DFS-3694/G160M/G160M20/leeyac020_continuumfit.fits|1467.75600|0.00050191|13.2584|10.0000|0.0000|2|2|2|-21.7246|21.7246|1468.38627|1468.59910|0.00050191|NiII|none|
+/Users/billyli/Documents/float-for-morrow/SMC/2DFS-3694/G160M/G160M20/leeyac020_continuumfit.fits|1703.41190|0.00050191|13.2584|10.0000|0.0000|2|2|2|-21.7246|21.7246|1704.14336|1704.39036|0.00050191|NiII|none|
+/Users/billyli/Documents/float-for-morrow/SMC/2DFS-3694/G160M/G160M20/leeyac020_continuumfit.fits|1709.60420|0.00050191|13.2584|10.0000|0.0000|2|2|2|-21.7246|21.7246|1710.33832|1710.58622|0.00050191|NiII|none|
+/Users/billyli/Documents/float-for-morrow/SMC/2DFS-3694/G160M/G160M20/leeyac020_continuumfit.fits|1741.55310|0.00050191|13.2584|10.0000|0.0000|2|2|2|-21.7246|21.7246|1742.30094|1742.55347|0.00050191|NiII|none|
+/Users/billyli/Documents/float-for-morrow/SMC/2DFS-3694/G160M/G160M20/leeyac020_continuumfit.fits|1751.91570|0.00050191|13.2584|10.0000|0.0000|2|2|2|-21.7246|21.7246|1752.66799|1752.92202|0.00050191|NiII|none|
+/Users/billyli/Documents/float-for-morrow/SMC/2DFS-3694/G160M/G160M20/leeyac020_continuumfit.fits|1772.28000|0.00050191|13.2584|10.0000|0.0000|2|2|2|-21.7246|21.7246|1773.04103|1773.29802|0.00050191|NiII|none|
+/Users/billyli/Documents/float-for-morrow/SMC/2DFS-3694/G160M/G160M20/leeyac020_continuumfit.fits|1773.94900|0.00050191|13.2584|10.0000|0.0000|2|2|2|-21.7246|21.7246|1774.71075|1774.96798|0.00050191|NiII|none|
+/Users/billyli/Documents/float-for-morrow/SMC/2DFS-3694/G160M/G160M20/leeyac020_continuumfit.fits|1783.31800|0.00050191|13.2584|10.0000|0.0000|2|2|2|-21.7246|21.7246|1784.08377|1784.34236|0.00050191|NiII|none|

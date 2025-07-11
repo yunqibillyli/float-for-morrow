@@ -1,0 +1,4 @@
+specfile|restwave|zsys|col|sigcol|bval|sigbval|vel|sigvel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|pix1|pix2|z_comp|trans|rely|comment 
+/Users/billyli/Documents/float-for-morrow/SMC/NGC346-356/E140M/E140M10/o4wr24010_continuumfit.fits|1317.217|0.00055|13.977|0.039|20.64|2.227|-13.187|1.547|2|2|2|-33.4225|33.4225|1317.7973586185674|1318.091059704153|17732|17752|0.00051|NiII|none|-- 
+/Users/billyli/Documents/float-for-morrow/SMC/NGC346-356/E140M/E140M10/o4wr24010_continuumfit.fits|1370.132|0.00055|13.977|0.0|20.64|0.0|-13.187|0.0|2|2|2|-33.4225|33.4225|1370.7356726786666|1371.041172270454|22106|22127|0.00051|NiII|none|-- 
+/Users/billyli/Documents/float-for-morrow/SMC/NGC346-356/E140M/E140M10/o4wr24010_continuumfit.fits|1454.842|0.00055|13.977|0.0|20.64|0.0|-13.187|0.0|2|2|2|-33.4225|33.4225|1455.482995442174|1455.8073829005466|28511|28532|0.00051|NiII|none|-- 
