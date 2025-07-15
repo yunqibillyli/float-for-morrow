@@ -1,0 +1,31 @@
+[target_info]
+problem    = "2dfs 3694"
+target     = "2DFS 3694"
+spec_file  = "/Users/billyli/Documents/float-for-morrow/SMC/2dFS 3694/G130M_1291_LP4_1534.400_16101/leeyac010_continuumfit_manual.fits"
+model_file = "/Users/billyli/Documents/stellar template fitting/powr-OB-smc-vd3.nc"
+instrument = "cos_g130m"
+
+[include_wave_range]
+wave_range = [ 1132, 1420,]
+
+[exclude_wave_ranges]
+dla = [[1200, 1220,] ]
+gap = [[1270, 1290,] ]
+
+[vshift]
+min = 50
+max = 550
+delta = 50
+
+[vsini]
+min = 50
+max = 350
+delta = 50
+
+[exclude_vranges.ions]
+linelist = "ISM"
+vrange = [-75, 350]
+drop_species = []
+
+[target_info.plot_ranges_kwargs.all_merged]
+color = "gainsboro"
