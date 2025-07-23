@@ -1,0 +1,30 @@
+[target_info]
+problem    = "sk 183"
+target     = "SK 183"
+spec_file  = "/Users/billyli/Documents/float-for-morrow/SMC/SMC N90/SK 183/G130M_1096_LP2_1736.096_17295/lf3r4c010_continuumfit_manual.fits"
+model_file = "/Users/billyli/Documents/stellar template fitting/powr-OB-smc-vd3.nc"
+instrument = "cos_g130m"
+
+[include_wave_range]
+wave_range = [ 940, 1160,]
+
+[exclude_wave_ranges]
+gap = [[1085, 1097,] ]
+
+[vshift]
+min = 50
+max = 550
+delta = 50
+
+[vsini]
+min = 50
+max = 350
+delta = 50
+
+[exclude_vranges.ions]
+linelist = "ISM"
+vrange = [-25, 150]
+drop_species = []
+
+[target_info.plot_ranges_kwargs.all_merged]
+color = "gainsboro"

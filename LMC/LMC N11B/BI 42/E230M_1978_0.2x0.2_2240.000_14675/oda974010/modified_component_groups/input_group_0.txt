@@ -1,0 +1,3 @@
+specfile|restwave|zsys|col|bval|vel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|z_comp|trans|rely|comment
+/Users/billyli/Documents/float-for-morrow/LMC/NGC 1763/BI 42/E230M_1978_0.2x0.2_2240.000_14675/oda974010/oda974010_continuumfit.fits|2249.8768|0.0009144|15.1416|5.0|0.0|2|2|2|-21.7246|21.7246|2251.77091|2252.09729|0.0009144|FeII|none|
+/Users/billyli/Documents/float-for-morrow/LMC/NGC 1763/BI 42/E230M_1978_0.2x0.2_2240.000_14675/oda974010/oda974010_continuumfit.fits|2260.7805|0.0009144|15.1416|5.0|0.0|2|2|2|-21.7246|21.7246|2262.68379|2263.01175|0.0009144|FeII|none|

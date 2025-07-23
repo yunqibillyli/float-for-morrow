@@ -1,0 +1,5 @@
+specfile|restwave|zsys|col|bval|vel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|z_comp|trans|rely|comment
+/Users/billyli/Documents/float-for-morrow/SMC/SMC N90/SK 183/G130M_1096_LP2_1736.064_16808/leth1c010/leth1c010_continuumfit.fits|1142.3656|-2.765e-05|14.3932|18.99435|0.0|2|2|2|-60.1604|60.1604|1142.1048|1142.56327|-2.765e-05|FeII|none|
+/Users/billyli/Documents/float-for-morrow/SMC/SMC N90/SK 183/G130M_1096_LP2_1736.064_16808/leth1c010/leth1c010_continuumfit.fits|1143.226|-2.765e-05|14.3932|18.99435|0.0|2|2|2|-60.1604|60.1604|1142.96501|1143.42382|-2.765e-05|FeII|none|
+/Users/billyli/Documents/float-for-morrow/SMC/SMC N90/SK 183/G130M_1096_LP2_1736.064_16808/leth1c010/leth1c010_continuumfit.fits|1142.3656|0.00041829|14.6741|18.51435|0.0|3|3|3|-56.8182|56.8182|1142.62687|1143.06006|0.00041829|FeII|none|
+/Users/billyli/Documents/float-for-morrow/SMC/SMC N90/SK 183/G130M_1096_LP2_1736.064_16808/leth1c010/leth1c010_continuumfit.fits|1143.226|0.00041829|14.6741|18.51435|0.0|3|3|3|-56.8182|56.8182|1143.48746|1143.92098|0.00041829|FeII|none|

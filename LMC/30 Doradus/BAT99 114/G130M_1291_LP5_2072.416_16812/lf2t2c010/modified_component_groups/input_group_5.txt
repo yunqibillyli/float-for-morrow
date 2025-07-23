@@ -1,0 +1,2 @@
+specfile|restwave|zsys|col|bval|vel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|z_comp|trans|rely|comment
+/Users/billyli/Documents/float-for-morrow/LMC/30 Doradus/BAT99 114/G130M_1291_LP5_2072.416_16812/lf2t2c010/lf2t2c010_continuumfit.fits|1358.773|0.00089211|12.5842|5.0|0.0|2|2|2|-31.7513|31.7513|1359.84114|1360.12921|0.00089211|CuII|none|
