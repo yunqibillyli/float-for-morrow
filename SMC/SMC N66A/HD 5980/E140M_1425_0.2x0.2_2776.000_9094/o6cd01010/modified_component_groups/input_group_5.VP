@@ -1,0 +1,4 @@
+specfile|restwave|zsys|col|sigcol|bval|sigbval|vel|sigvel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|pix1|pix2|z_comp|trans|rely|comment 
+/Users/billyli/Documents/float-for-morrow/SMC/SMC N66A/HD 5980/E140M_1425_0.2x0.2_2776.000_9094/o6cd01010/o6cd01010_continuumfit.fits|1317.217|0.00051|13.66|0.016|21.76|0.997|-7.699|0.692|2|2|2|-45.1203|45.1203|1317.694563450782|1318.0910592572584|17711|17739|0.00049|NiII|none|-- 
+/Users/billyli/Documents/float-for-morrow/SMC/SMC N66A/HD 5980/E140M_1425_0.2x0.2_2776.000_9094/o6cd01010/o6cd01010_continuumfit.fits|1370.132|0.00051|13.66|0.0|21.76|0.0|-7.699|0.0|2|2|2|-45.1203|45.1203|1370.6287480422336|1371.0411718056068|22086|22114|0.00049|NiII|none|-- 
+/Users/billyli/Documents/float-for-morrow/SMC/SMC N66A/HD 5980/E140M_1425_0.2x0.2_2776.000_9094/o6cd01010/o6cd01010_continuumfit.fits|1454.842|0.00051|13.66|0.0|21.76|0.0|-7.699|0.0|2|2|2|-45.1203|45.1203|1455.3694600660806|1455.8073824069597|28491|28519|0.00049|NiII|none|-- 

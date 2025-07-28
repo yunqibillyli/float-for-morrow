@@ -1,0 +1,31 @@
+[target_info]
+problem    = "cl* ngc 346 els 51"
+target     = "CL* NGC 346 ELS 51"
+spec_file  = "/Users/billyli/Documents/float-for-morrow/SMC/SMC N66A/Cl* NGC 346 ELS 51/G130M_1327_LP1_360.032_11625/lb2a05020_continuumfit_manual.fits"
+model_file = "/Users/billyli/Documents/stellar template fitting/powr-OB-smc-vd3.nc"
+instrument = "cos_g130m"
+
+[include_wave_range]
+wave_range = [ 1135, 1420,]
+
+[exclude_wave_ranges]
+dla = [[1180, 1250,] ]
+gap = [[1270, 1290,], [1424, 1425,]]
+
+[vshift]
+min = 50
+max = 550
+delta = 50
+
+[vsini]
+min = 50
+max = 350
+delta = 50
+
+[exclude_vranges.ions]
+linelist = "ISM"
+vrange = [-75, 350]
+drop_species = []
+
+[target_info.plot_ranges_kwargs.all_merged]
+color = "gainsboro"

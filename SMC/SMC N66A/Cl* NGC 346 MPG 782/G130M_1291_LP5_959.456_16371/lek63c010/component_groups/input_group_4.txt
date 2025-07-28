@@ -1,0 +1,4 @@
+specfile|restwave|zsys|col|bval|vel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|z_comp|trans|rely|comment
+/Users/billyli/Documents/float-for-morrow/SMC/SMC N66A/Cl* NGC 346 MPG 782/G130M_1291_LP5_959.456_16371/lek63c010/lek63c010_continuumfit.fits|1250.57800|0.00044059|15.3764|35.4627|0.0000|2|2|2|-53.4759|53.4759|1250.90584|1251.35218|0.00044059|SII|none|
+/Users/billyli/Documents/float-for-morrow/SMC/SMC N66A/Cl* NGC 346 MPG 782/G130M_1291_LP5_959.456_16371/lek63c010/lek63c010_continuumfit.fits|1253.80500|0.00044059|15.3764|35.4627|0.0000|2|2|2|-53.4759|53.4759|1254.13369|1254.58118|0.00044059|SII|none|
+/Users/billyli/Documents/float-for-morrow/SMC/SMC N66A/Cl* NGC 346 MPG 782/G130M_1291_LP5_959.456_16371/lek63c010/lek63c010_continuumfit.fits|1259.51800|0.00044059|15.3764|35.4627|0.0000|2|2|2|-53.4759|53.4759|1259.84818|1260.29772|0.00044059|SII|none|

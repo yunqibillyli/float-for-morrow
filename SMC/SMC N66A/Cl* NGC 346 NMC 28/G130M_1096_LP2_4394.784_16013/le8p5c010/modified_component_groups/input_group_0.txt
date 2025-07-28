@@ -1,0 +1,2 @@
+specfile|restwave|zsys|col|bval|vel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|z_comp|trans|rely|comment
+/Users/billyli/Documents/float-for-morrow/SMC/SMC N66A/Cl* NGC 346 NMC 28/G130M_1096_LP2_4394.784_16013/le8p5c010/le8p5c010_continuumfit.fits|1152.818|0.00042944|13.5712|20.49385|0.0|2|2|2|-60.1604|60.1604|1153.08165|1153.54453|0.00042944|PII|none|

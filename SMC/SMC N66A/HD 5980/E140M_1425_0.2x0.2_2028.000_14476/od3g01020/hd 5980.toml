@@ -1,0 +1,29 @@
+[target_info]
+problem    = "hd 5980"
+target     = "HD 5980"
+spec_file  = "/Users/billyli/Documents/float-for-morrow/SMC/SMC N66A/HD 5980/E140M_1425_0.2x0.2_2028.000_14476/od3g01020_continuumfit_manual.fits"
+model_file = "/Users/billyli/Documents/stellar template fitting/powr-OB-smc-vd3.nc"
+instrument = "stis_e140m"
+
+[include_wave_range]
+wave_range = [ 1250, 1625,]
+
+[exclude_wave_ranges]
+
+[vshift]
+min = 50
+max = 550
+delta = 50
+
+[vsini]
+min = 50
+max = 350
+delta = 50
+
+[exclude_vranges.ions]
+linelist = "ISM"
+vrange = [-25, 150]
+drop_species = []
+
+[target_info.plot_ranges_kwargs.all_merged]
+color = "gainsboro"

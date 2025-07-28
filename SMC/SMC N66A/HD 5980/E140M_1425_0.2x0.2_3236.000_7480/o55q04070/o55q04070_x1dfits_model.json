@@ -1,0 +1,753 @@
+{
+    "bad_pixels": [],
+    "cmps": {
+        "z0.00047_MgII": {
+            "A": null,
+            "DEC": 0.0,
+            "Ej": 0.0,
+            "Name": "z0.00047_MgII",
+            "Nfit": 15.350165967905465,
+            "RA": 0.0,
+            "Zion": [
+                12,
+                2
+            ],
+            "attrib": {
+                "N": {
+                    "unit": "1 / cm2",
+                    "value": 2239576841044019.8
+                },
+                "Nsig": {
+                    "unit": "1 / cm2",
+                    "value": 0.0
+                },
+                "b": {
+                    "unit": "km / s",
+                    "value": 10.0
+                },
+                "bsig": {
+                    "unit": "km / s",
+                    "value": 0.0
+                },
+                "flagN": 0,
+                "logN": 15.350165967905465,
+                "reliability": "none",
+                "sig_N": {
+                    "unit": "1 / cm2",
+                    "value": 0.0
+                },
+                "sig_logN": 0.0,
+                "z": 0.00044851702881883605,
+                "zsig": 0.0
+            },
+            "bfit": {
+                "unit": "km / s",
+                "value": 10.0
+            },
+            "class": "AbsComponent",
+            "comment": "",
+            "lines": {
+                "1239.9253": {
+                    "analy": {
+                        "datafile": "",
+                        "do_analysis": 1,
+                        "flag_kin": 0,
+                        "flg_eye": 0,
+                        "flg_limit": 0,
+                        "name": "MgII 1239",
+                        "spec_file": ""
+                    },
+                    "attrib": {
+                        "DEC": 0.0,
+                        "EW": {
+                            "unit": "Angstrom",
+                            "value": 0.0
+                        },
+                        "N": {
+                            "unit": "1 / cm2",
+                            "value": 2239576841044019.8
+                        },
+                        "RA": 0.0,
+                        "b": {
+                            "unit": "km / s",
+                            "value": 10.0
+                        },
+                        "flag_EW": 0,
+                        "flag_N": 0,
+                        "logN": 15.350165967905465,
+                        "sig_EW": {
+                            "unit": "Angstrom",
+                            "value": 0.0
+                        },
+                        "sig_N": {
+                            "unit": "1 / cm2",
+                            "value": 0.0
+                        },
+                        "sig_b": {
+                            "unit": "km / s",
+                            "value": 0.0
+                        },
+                        "sig_logN": 0.0,
+                        "sig_vel": {
+                            "unit": "km / s",
+                            "value": 0.0
+                        },
+                        "vel": {
+                            "unit": "km / s",
+                            "value": 0.0
+                        }
+                    },
+                    "data": {
+                        "A": {
+                            "unit": "1 / s",
+                            "value": 1370000.0
+                        },
+                        "Am": 0,
+                        "Ej": {
+                            "unit": "1 / cm",
+                            "value": 0.0
+                        },
+                        "Ek": {
+                            "unit": "1 / cm",
+                            "value": 80650.02
+                        },
+                        "Ex": {
+                            "unit": "1 / cm",
+                            "value": 0.0
+                        },
+                        "Id": 271,
+                        "Jj": 0.0,
+                        "Jk": 0.0,
+                        "Ref": "Morton2003",
+                        "Z": 12,
+                        "el": 0,
+                        "f": 0.000632,
+                        "gamma": {
+                            "unit": "1 / s",
+                            "value": 0.0
+                        },
+                        "gj": 2,
+                        "gk": 4,
+                        "group": 1,
+                        "ion": 2,
+                        "name": "MgII 1239",
+                        "nj": 0,
+                        "nk": 0,
+                        "wrest": {
+                            "unit": "Angstrom",
+                            "value": 1239.9253
+                        }
+                    },
+                    "limits": {
+                        "vlim": {
+                            "unit": "km / s",
+                            "value": [
+                                -23.395721925134218,
+                                23.395721925124846
+                            ]
+                        },
+                        "wrest": {
+                            "unit": "Angstrom",
+                            "value": 1239.9253
+                        },
+                        "wvlim": {
+                            "unit": "Angstrom",
+                            "value": [
+                                1240.4162632153616,
+                                1240.6098818212647
+                            ]
+                        },
+                        "z": 0.00047403560587651794,
+                        "zlim": [
+                            0.0003959619304174245,
+                            0.0005521153744218165
+                        ]
+                    },
+                    "ltype": "Abs",
+                    "name": "MgII 1239",
+                    "wrest": {
+                        "unit": "Angstrom",
+                        "value": 1239.9253
+                    }
+                },
+                "1240.3947": {
+                    "analy": {
+                        "datafile": "",
+                        "do_analysis": 1,
+                        "flag_kin": 0,
+                        "flg_eye": 0,
+                        "flg_limit": 0,
+                        "name": "MgII 1240",
+                        "spec_file": ""
+                    },
+                    "attrib": {
+                        "DEC": 0.0,
+                        "EW": {
+                            "unit": "Angstrom",
+                            "value": 0.0
+                        },
+                        "N": {
+                            "unit": "1 / cm2",
+                            "value": 2239576841044019.8
+                        },
+                        "RA": 0.0,
+                        "b": {
+                            "unit": "km / s",
+                            "value": 10.0
+                        },
+                        "flag_EW": 0,
+                        "flag_N": 0,
+                        "logN": 15.350165967905465,
+                        "sig_EW": {
+                            "unit": "Angstrom",
+                            "value": 0.0
+                        },
+                        "sig_N": {
+                            "unit": "1 / cm2",
+                            "value": 0.0
+                        },
+                        "sig_b": {
+                            "unit": "km / s",
+                            "value": 0.0
+                        },
+                        "sig_logN": 0.0,
+                        "sig_vel": {
+                            "unit": "km / s",
+                            "value": 0.0
+                        },
+                        "vel": {
+                            "unit": "km / s",
+                            "value": 0.0
+                        }
+                    },
+                    "data": {
+                        "A": {
+                            "unit": "1 / s",
+                            "value": 1540000.0
+                        },
+                        "Am": 0,
+                        "Ej": {
+                            "unit": "1 / cm",
+                            "value": 0.0
+                        },
+                        "Ek": {
+                            "unit": "1 / cm",
+                            "value": 80619.5
+                        },
+                        "Ex": {
+                            "unit": "1 / cm",
+                            "value": 0.0
+                        },
+                        "Id": 272,
+                        "Jj": 0.0,
+                        "Jk": 0.0,
+                        "Ref": "Morton2003",
+                        "Z": 12,
+                        "el": 0,
+                        "f": 0.000356,
+                        "gamma": {
+                            "unit": "1 / s",
+                            "value": 0.0
+                        },
+                        "gj": 2,
+                        "gk": 2,
+                        "group": 1,
+                        "ion": 2,
+                        "name": "MgII 1240",
+                        "nj": 0,
+                        "nk": 0,
+                        "wrest": {
+                            "unit": "Angstrom",
+                            "value": 1240.3947
+                        }
+                    },
+                    "limits": {
+                        "vlim": {
+                            "unit": "km / s",
+                            "value": [
+                                -23.395721925134218,
+                                23.395721925124846
+                            ]
+                        },
+                        "wrest": {
+                            "unit": "Angstrom",
+                            "value": 1240.3947
+                        },
+                        "wvlim": {
+                            "unit": "Angstrom",
+                            "value": [
+                                1240.8858490798916,
+                                1241.0795409842215
+                            ]
+                        },
+                        "z": 0.00047403560587651794,
+                        "zlim": [
+                            0.0003959619304174245,
+                            0.0005521153744218165
+                        ]
+                    },
+                    "ltype": "Abs",
+                    "name": "MgII 1240",
+                    "wrest": {
+                        "unit": "Angstrom",
+                        "value": 1240.3947
+                    }
+                }
+            },
+            "mask_abslines": [
+                2,
+                2
+            ],
+            "reliability": "none",
+            "vlim": [
+                -23.395721925134218,
+                23.395721925124846
+            ],
+            "wrest": 1239.9253,
+            "zcomp": 0.00047403560587651794,
+            "zfit": 0.00044851702881883605
+        },
+        "z0.00050_PII": {
+            "A": null,
+            "DEC": 0.0,
+            "Ej": 0.0,
+            "Name": "z0.00050_PII",
+            "Nfit": 13.495145670271008,
+            "RA": 0.0,
+            "Zion": [
+                15,
+                2
+            ],
+            "attrib": {
+                "N": {
+                    "unit": "1 / cm2",
+                    "value": 31271280868911.973
+                },
+                "Nsig": {
+                    "unit": "1 / cm2",
+                    "value": 0.0
+                },
+                "b": {
+                    "unit": "km / s",
+                    "value": 25.035719183105872
+                },
+                "bsig": {
+                    "unit": "km / s",
+                    "value": 0.0
+                },
+                "flagN": 0,
+                "logN": 13.495145670271008,
+                "reliability": "none",
+                "sig_N": {
+                    "unit": "1 / cm2",
+                    "value": 0.0
+                },
+                "sig_logN": 0.0,
+                "z": 0.00047082236884112184,
+                "zsig": 0.0
+            },
+            "bfit": {
+                "unit": "km / s",
+                "value": 25.035719183105872
+            },
+            "class": "AbsComponent",
+            "comment": "",
+            "lines": {
+                "1152.818": {
+                    "analy": {
+                        "datafile": "",
+                        "do_analysis": 1,
+                        "flag_kin": 0,
+                        "flg_eye": 0,
+                        "flg_limit": 0,
+                        "name": "PII 1152",
+                        "spec_file": ""
+                    },
+                    "attrib": {
+                        "DEC": 0.0,
+                        "EW": {
+                            "unit": "Angstrom",
+                            "value": 0.0
+                        },
+                        "N": {
+                            "unit": "1 / cm2",
+                            "value": 31271280868911.973
+                        },
+                        "RA": 0.0,
+                        "b": {
+                            "unit": "km / s",
+                            "value": 25.035719183105872
+                        },
+                        "flag_EW": 0,
+                        "flag_N": 0,
+                        "logN": 13.495145670271008,
+                        "sig_EW": {
+                            "unit": "Angstrom",
+                            "value": 0.0
+                        },
+                        "sig_N": {
+                            "unit": "1 / cm2",
+                            "value": 0.0
+                        },
+                        "sig_b": {
+                            "unit": "km / s",
+                            "value": 0.0
+                        },
+                        "sig_logN": 0.0,
+                        "sig_vel": {
+                            "unit": "km / s",
+                            "value": 0.0
+                        },
+                        "vel": {
+                            "unit": "km / s",
+                            "value": 0.0
+                        }
+                    },
+                    "data": {
+                        "A": {
+                            "unit": "1 / s",
+                            "value": 410000000.0
+                        },
+                        "Am": 0,
+                        "Ej": {
+                            "unit": "1 / cm",
+                            "value": 0.0
+                        },
+                        "Ek": {
+                            "unit": "1 / cm",
+                            "value": 86743.96
+                        },
+                        "Ex": {
+                            "unit": "1 / cm",
+                            "value": 0.0
+                        },
+                        "Id": 245,
+                        "Jj": 0.0,
+                        "Jk": 0.0,
+                        "Ref": "Morton2003",
+                        "Z": 15,
+                        "el": 0,
+                        "f": 0.245,
+                        "gamma": {
+                            "unit": "1 / s",
+                            "value": 1230000000.0
+                        },
+                        "gj": 1,
+                        "gk": 3,
+                        "group": 1,
+                        "ion": 2,
+                        "name": "PII 1152",
+                        "nj": 0,
+                        "nk": 0,
+                        "wrest": {
+                            "unit": "Angstrom",
+                            "value": 1152.818
+                        }
+                    },
+                    "limits": {
+                        "vlim": {
+                            "unit": "km / s",
+                            "value": [
+                                -43.44919786098231,
+                                43.449197860958186
+                            ]
+                        },
+                        "wrest": {
+                            "unit": "Angstrom",
+                            "value": 1152.818
+                        },
+                        "wvlim": {
+                            "unit": "Angstrom",
+                            "value": [
+                                1153.2230314445278,
+                                1153.557355256782
+                            ]
+                        },
+                        "z": 0.0004963326710635601,
+                        "zlim": [
+                            0.00035134031957155087,
+                            0.0006413460379538958
+                        ]
+                    },
+                    "ltype": "Abs",
+                    "name": "PII 1152",
+                    "wrest": {
+                        "unit": "Angstrom",
+                        "value": 1152.818
+                    }
+                },
+                "1301.874": {
+                    "analy": {
+                        "datafile": "",
+                        "do_analysis": 1,
+                        "flag_kin": 0,
+                        "flg_eye": 0,
+                        "flg_limit": 0,
+                        "name": "PII 1301",
+                        "spec_file": ""
+                    },
+                    "attrib": {
+                        "DEC": 0.0,
+                        "EW": {
+                            "unit": "Angstrom",
+                            "value": 0.0
+                        },
+                        "N": {
+                            "unit": "1 / cm2",
+                            "value": 31271280868911.973
+                        },
+                        "RA": 0.0,
+                        "b": {
+                            "unit": "km / s",
+                            "value": 25.035719183105872
+                        },
+                        "flag_EW": 0,
+                        "flag_N": 0,
+                        "logN": 13.495145670271008,
+                        "sig_EW": {
+                            "unit": "Angstrom",
+                            "value": 0.0
+                        },
+                        "sig_N": {
+                            "unit": "1 / cm2",
+                            "value": 0.0
+                        },
+                        "sig_b": {
+                            "unit": "km / s",
+                            "value": 0.0
+                        },
+                        "sig_logN": 0.0,
+                        "sig_vel": {
+                            "unit": "km / s",
+                            "value": 0.0
+                        },
+                        "vel": {
+                            "unit": "km / s",
+                            "value": 0.0
+                        }
+                    },
+                    "data": {
+                        "A": {
+                            "unit": "1 / s",
+                            "value": 0.0
+                        },
+                        "Am": 0,
+                        "Ej": {
+                            "unit": "1 / cm",
+                            "value": 0.0
+                        },
+                        "Ek": {
+                            "unit": "1 / cm",
+                            "value": 0.0
+                        },
+                        "Ex": {
+                            "unit": "1 / cm",
+                            "value": 0.0
+                        },
+                        "Id": 304,
+                        "Jj": 0.0,
+                        "Jk": 0.0,
+                        "Ref": "Verner1994",
+                        "Z": 15,
+                        "el": 0,
+                        "f": 0.0173,
+                        "gamma": {
+                            "unit": "1 / s",
+                            "value": 0.0
+                        },
+                        "gj": 1,
+                        "gk": 3,
+                        "group": 1,
+                        "ion": 2,
+                        "name": "PII 1301",
+                        "nj": 0,
+                        "nk": 0,
+                        "wrest": {
+                            "unit": "Angstrom",
+                            "value": 1301.874
+                        }
+                    },
+                    "limits": {
+                        "vlim": {
+                            "unit": "km / s",
+                            "value": [
+                                -43.44919786098231,
+                                43.449197860958186
+                            ]
+                        },
+                        "wrest": {
+                            "unit": "Angstrom",
+                            "value": 1301.874
+                        },
+                        "wvlim": {
+                            "unit": "Angstrom",
+                            "value": [
+                                1302.331400827202,
+                                1302.7089517318152
+                            ]
+                        },
+                        "z": 0.0004963326710635601,
+                        "zlim": [
+                            0.00035134031957155087,
+                            0.0006413460379538958
+                        ]
+                    },
+                    "ltype": "Abs",
+                    "name": "PII 1301",
+                    "wrest": {
+                        "unit": "Angstrom",
+                        "value": 1301.874
+                    }
+                },
+                "1532.533": {
+                    "analy": {
+                        "datafile": "",
+                        "do_analysis": 1,
+                        "flag_kin": 0,
+                        "flg_eye": 0,
+                        "flg_limit": 0,
+                        "name": "PII 1532",
+                        "spec_file": ""
+                    },
+                    "attrib": {
+                        "DEC": 0.0,
+                        "EW": {
+                            "unit": "Angstrom",
+                            "value": 0.0
+                        },
+                        "N": {
+                            "unit": "1 / cm2",
+                            "value": 0.0
+                        },
+                        "RA": 0.0,
+                        "b": {
+                            "unit": "km / s",
+                            "value": 25.035719183105872
+                        },
+                        "flag_EW": 0,
+                        "flag_N": 0,
+                        "logN": 13.495145670271008,
+                        "sig_EW": {
+                            "unit": "Angstrom",
+                            "value": 0.0
+                        },
+                        "sig_N": {
+                            "unit": "1 / cm2",
+                            "value": 0.0
+                        },
+                        "sig_b": {
+                            "unit": "km / s",
+                            "value": 0.0
+                        },
+                        "sig_logN": 0.0,
+                        "sig_vel": {
+                            "unit": "km / s",
+                            "value": 0.0
+                        },
+                        "vel": {
+                            "unit": "km / s",
+                            "value": 0.0
+                        }
+                    },
+                    "data": {
+                        "A": {
+                            "unit": "1 / s",
+                            "value": 2870000.0
+                        },
+                        "Am": 0,
+                        "Ej": {
+                            "unit": "1 / cm",
+                            "value": 0.0
+                        },
+                        "Ek": {
+                            "unit": "1 / cm",
+                            "value": 65251.45
+                        },
+                        "Ex": {
+                            "unit": "1 / cm",
+                            "value": 0.0
+                        },
+                        "Id": 340,
+                        "Jj": 0.0,
+                        "Jk": 0.0,
+                        "Ref": "Morton2003",
+                        "Z": 15,
+                        "el": 0,
+                        "f": 0.00303,
+                        "gamma": {
+                            "unit": "1 / s",
+                            "value": 4770000.0
+                        },
+                        "gj": 1,
+                        "gk": 3,
+                        "group": 1,
+                        "ion": 2,
+                        "name": "PII 1532",
+                        "nj": 0,
+                        "nk": 0,
+                        "wrest": {
+                            "unit": "Angstrom",
+                            "value": 1532.533
+                        }
+                    },
+                    "limits": {
+                        "vlim": {
+                            "unit": "km / s",
+                            "value": [
+                                -43.44919786098231,
+                                43.449197860958186
+                            ]
+                        },
+                        "wrest": {
+                            "unit": "Angstrom",
+                            "value": 1532.533
+                        },
+                        "wvlim": {
+                            "unit": "Angstrom",
+                            "value": [
+                                1533.071440633974,
+                                1533.5158839675837
+                            ]
+                        },
+                        "z": 0.0004963326710635601,
+                        "zlim": [
+                            0.00035134031957155087,
+                            0.0006413460379538958
+                        ]
+                    },
+                    "ltype": "Abs",
+                    "name": "PII 1532",
+                    "wrest": {
+                        "unit": "Angstrom",
+                        "value": 1532.533
+                    }
+                }
+            },
+            "mask_abslines": [
+                2,
+                2,
+                0
+            ],
+            "reliability": "none",
+            "vlim": [
+                -43.44919786098231,
+                43.449197860958186
+            ],
+            "wrest": 1152.818,
+            "zcomp": 0.0004963326710635601,
+            "zfit": 0.00047082236884112184
+        }
+    },
+    "fwhm": 3.0,
+    "meta": {
+        "ALTNAME": "unknown",
+        "Creator": "unknown",
+        "DEC": 0.0,
+        "Date": "2025-Jul-28",
+        "Instrument": "unknown",
+        "JNAME": "J000000.00+000000.0",
+        "RA": 0.0,
+        "zem": 0.0
+    },
+    "spec_file": "o55q04070_continuumfit.fits"
+}

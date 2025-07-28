@@ -1,0 +1,2 @@
+specfile|restwave|zsys|col|bval|vel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|z_comp|trans|rely|comment
+/Users/billyli/Documents/float-for-morrow/SMC/SMC N66A/HD 5980/E140M_1425_0.2x0.2_2776.000_9094/o6cd01010/o6cd01010_continuumfit.fits|1152.818|0.00044059|13.4437|5.0|0.0|2|2|2|-20.0535|20.0535|1153.24878|1153.40307|0.00044059|PII|none|

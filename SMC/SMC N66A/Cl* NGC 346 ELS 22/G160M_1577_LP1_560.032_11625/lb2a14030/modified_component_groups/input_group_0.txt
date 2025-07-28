@@ -1,0 +1,4 @@
+specfile|restwave|zsys|col|bval|vel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|z_comp|trans|rely|comment
+/Users/billyli/Documents/float-for-morrow/SMC/SMC N66A/Cl* NGC 346 ELS 22/G160M_1577_LP1_560.032_11625/lb2a14030/lb2a14030_continuumfit.fits|1454.842|0.00046289|13.5114|5.0|0.0|2|2|2|-23.3957|23.3957|1455.40184|1455.62902|0.00046289|NiII|none|
+/Users/billyli/Documents/float-for-morrow/SMC/SMC N66A/Cl* NGC 346 ELS 22/G160M_1577_LP1_560.032_11625/lb2a14030/lb2a14030_continuumfit.fits|1709.6042|0.00046289|13.5114|5.0|0.0|2|2|2|-23.3957|23.3957|1710.26208|1710.52904|0.00046289|NiII|none|
+/Users/billyli/Documents/float-for-morrow/SMC/SMC N66A/Cl* NGC 346 ELS 22/G160M_1577_LP1_560.032_11625/lb2a14030/lb2a14030_continuumfit.fits|1741.5531|0.00046289|13.5114|5.0|0.0|2|2|2|-23.3957|23.3957|1742.22327|1742.49522|0.00046289|NiII|none|

@@ -1,0 +1,3 @@
+specfile|restwave|zsys|col|bval|vel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|z_comp|trans|rely|comment
+/Users/billyli/Documents/float-for-morrow/SMC/SMC N66A/Cl* NGC 346 SSN 7/E140M_1425_0.2x0.2_2210.200_16805/oeuaas010/oeuaas010_continuumfit.fits|1608.4511|0.00048518|14.9308|9.55475|0.0|2|2|2|-33.4225|33.4225|1609.0521|1609.41091|0.00048518|FeII|none|
+/Users/billyli/Documents/float-for-morrow/SMC/SMC N66A/Cl* NGC 346 SSN 7/E140M_1425_0.2x0.2_2210.200_16805/oeuaas010/oeuaas010_continuumfit.fits|1611.2005|0.00048518|14.9308|9.55475|0.0|2|2|2|-33.4225|33.4225|1611.80253|1612.16195|0.00048518|FeII|none|
