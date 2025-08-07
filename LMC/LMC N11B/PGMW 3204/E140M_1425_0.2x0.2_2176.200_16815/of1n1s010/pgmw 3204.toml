@@ -1,0 +1,30 @@
+[target_info]
+problem    = "pgmw 3204"
+target     = "PGMW 3204"
+spec_file  = "/Users/billyli/Documents/float-for-morrow/LMC/LMC N11B/PGMW 3204/E140M_1425_0.2x0.2_2176.200_16815/of1n1s010_continuumfit_manual.fits"
+model_file = "/Users/billyli/Documents/stellar template fitting/powr-OB-lmc-vd3.nc"
+instrument = "stis_e140m"
+
+[include_wave_range]
+wave_range = [ 1250, 1650,]
+
+[exclude_wave_ranges]
+big_abs = [[1530, 1555,] ]
+
+[vshift]
+min = 50
+max = 550
+delta = 50
+
+[vsini]
+min = 50
+max = 350
+delta = 50
+
+[exclude_vranges.ions]
+linelist = "ISM"
+vrange = [-75, 350]
+drop_species = []
+
+[target_info.plot_ranges_kwargs.all_merged]
+color = "gainsboro"

@@ -1,0 +1,31 @@
+[target_info]
+problem    = "pgmw 3058"
+target     = "PGMW 3058"
+spec_file  = "/Users/billyli/Documents/float-for-morrow/LMC/LMC N11B/PGMW 3058/G130M_1291_LP4_2066.368_16319/lehf1c010_continuumfit_manual.fits"
+model_file = "/Users/billyli/Documents/stellar template fitting/powr-OB-lmc-vd3.nc"
+instrument = "cos_g130m"
+
+[include_wave_range]
+wave_range = [ 1135, 1420,]
+
+[exclude_wave_ranges]
+dla = [[1180, 1250,] ]
+gap = [[1270, 1290,], [1424, 1425,]]
+
+[vshift]
+min = 50
+max = 550
+delta = 50
+
+[vsini]
+min = 50
+max = 350
+delta = 50
+
+[exclude_vranges.ions]
+linelist = "ISM"
+vrange = [-25, 350]
+drop_species = []
+
+[target_info.plot_ranges_kwargs.all_merged]
+color = "gainsboro"

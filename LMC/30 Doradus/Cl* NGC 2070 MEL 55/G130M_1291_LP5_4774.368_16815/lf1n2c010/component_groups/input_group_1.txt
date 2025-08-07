@@ -1,0 +1,3 @@
+specfile|restwave|zsys|col|bval|vel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|z_comp|trans|rely|comment
+/Users/billyli/Documents/float-for-morrow/LMC/30 Doradus/Cl* NGC 2070 MEL 55/G130M_1291_LP5_4774.368_16815/lf1n2c010/lf1n2c010_continuumfit.fits|1152.81800|0.00085309|14.0353|30.7729|0.0000|2|2|2|-56.8182|56.8182|1153.58280|1154.02015|0.00085309|PII|none|
+/Users/billyli/Documents/float-for-morrow/LMC/30 Doradus/Cl* NGC 2070 MEL 55/G130M_1291_LP5_4774.368_16815/lf1n2c010/lf1n2c010_continuumfit.fits|1301.87400|0.00085309|14.0353|30.7729|0.0000|2|2|2|-56.8182|56.8182|1302.73769|1303.23158|0.00085309|PII|none|

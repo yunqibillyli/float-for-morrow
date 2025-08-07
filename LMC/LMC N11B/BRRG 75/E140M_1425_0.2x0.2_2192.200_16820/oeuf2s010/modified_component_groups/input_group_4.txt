@@ -1,0 +1,4 @@
+specfile|restwave|zsys|col|bval|vel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|z_comp|trans|rely|comment
+/Users/billyli/Documents/float-for-morrow/LMC/LMC N11B/BRRG 75/E140M_1425_0.2x0.2_2192.200_16820/oeuf2s010/oeuf2s010_continuumfit.fits|1317.217|0.000959|13.8273|2.5|0.0|2|2|2|-25.0668|25.0668|1318.36997|1318.59045|0.000959|NiII|none|
+/Users/billyli/Documents/float-for-morrow/LMC/LMC N11B/BRRG 75/E140M_1425_0.2x0.2_2192.200_16820/oeuf2s010/oeuf2s010_continuumfit.fits|1370.132|0.000959|13.8273|2.5|0.0|2|2|2|-25.0668|25.0668|1371.33128|1371.56063|0.000959|NiII|none|
+/Users/billyli/Documents/float-for-morrow/LMC/LMC N11B/BRRG 75/E140M_1425_0.2x0.2_2192.200_16820/oeuf2s010/oeuf2s010_continuumfit.fits|1454.842|0.000959|13.8273|2.5|0.0|2|2|2|-25.0668|25.0668|1456.11543|1456.35896|0.000959|NiII|none|

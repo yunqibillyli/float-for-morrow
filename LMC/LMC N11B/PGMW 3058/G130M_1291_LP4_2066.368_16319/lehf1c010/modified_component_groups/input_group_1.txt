@@ -1,0 +1,2 @@
+specfile|restwave|zsys|col|bval|vel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|z_comp|trans|rely|comment
+/Users/billyli/Documents/float-for-morrow/LMC/LMC N11B/PGMW 3058/G130M_1291_LP4_2066.368_16319/lehf1c010/lehf1c010_continuumfit.fits|1152.818|0.00083079|13.8318|16.7923|0.0|2|2|2|-60.1604|60.1604|1153.54424|1154.0073|0.00083079|PII|none|

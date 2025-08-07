@@ -1,0 +1,2 @@
+specfile|restwave|zsys|col|bval|vel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|z_comp|trans|rely|comment
+/Users/billyli/Documents/float-for-morrow/LMC/30 Doradus/RMC 140/E140M_1425_0.2x0.2_2670.000_16272/oec159010/oec159010_continuumfit.fits|1152.818|0.00086981|14.5692|8.1801|0.0|2|2|2|-35.0936|35.0936|1153.68567|1153.9558|0.00086981|PII|none|

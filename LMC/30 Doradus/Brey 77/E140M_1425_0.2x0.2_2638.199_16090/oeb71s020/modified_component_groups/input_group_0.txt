@@ -1,0 +1,2 @@
+specfile|restwave|zsys|col|bval|vel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|z_comp|trans|rely|comment
+/Users/billyli/Documents/float-for-morrow/LMC/30 Doradus/Brey 77/E140M_1425_0.2x0.2_2638.199_16090/oeb71s020/oeb71s020_continuumfit.fits|1611.2005|0.00091998|15.6812|14.9401|0.0|2|2|2|-36.7647|36.7647|1612.48501|1612.88055|0.00091998|FeII|none|

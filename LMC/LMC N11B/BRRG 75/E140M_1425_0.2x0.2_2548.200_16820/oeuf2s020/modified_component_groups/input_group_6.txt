@@ -1,0 +1,2 @@
+specfile|restwave|zsys|col|bval|vel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|z_comp|trans|rely|comment
+/Users/billyli/Documents/float-for-morrow/LMC/LMC N11B/BRRG 75/E140M_1425_0.2x0.2_2548.200_16820/oeuf2s020/oeuf2s020_continuumfit.fits|1358.773|0.00099802|12.0|2.5|0.0|2|2|2|-26.738|26.738|1360.00778|1360.25039|0.00099802|CuII|none|

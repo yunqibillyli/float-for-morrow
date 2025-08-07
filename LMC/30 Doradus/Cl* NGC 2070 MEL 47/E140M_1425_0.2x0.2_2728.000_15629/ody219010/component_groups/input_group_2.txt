@@ -1,0 +1,4 @@
+specfile|restwave|zsys|col|bval|vel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|z_comp|trans|rely|comment
+/Users/billyli/Documents/float-for-morrow/LMC/30 Doradus/Cl* NGC 2070 MEL 47/E140M_1425_0.2x0.2_2728.000_15629/ody219010/ody219010_continuumfit.fits|1250.57800|0.00005597|15.8315|10.0000|0.0000|2|2|2|-31.7513|31.7513|1250.51554|1250.78045|0.00005597|SII|none|
+/Users/billyli/Documents/float-for-morrow/LMC/30 Doradus/Cl* NGC 2070 MEL 47/E140M_1425_0.2x0.2_2728.000_15629/ody219010/ody219010_continuumfit.fits|1253.80500|0.00005597|15.8315|10.0000|0.0000|2|2|2|-31.7513|31.7513|1253.74238|1254.00798|0.00005597|SII|none|
+/Users/billyli/Documents/float-for-morrow/LMC/30 Doradus/Cl* NGC 2070 MEL 47/E140M_1425_0.2x0.2_2728.000_15629/ody219010/ody219010_continuumfit.fits|1259.51800|0.00005597|15.8315|10.0000|0.0000|2|2|2|-31.7513|31.7513|1259.45509|1259.72190|0.00005597|SII|none|

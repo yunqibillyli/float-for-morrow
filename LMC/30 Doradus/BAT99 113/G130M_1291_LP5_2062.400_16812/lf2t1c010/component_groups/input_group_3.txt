@@ -1,0 +1,4 @@
+specfile|restwave|zsys|col|bval|vel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|z_comp|trans|rely|comment
+/Users/billyli/Documents/float-for-morrow/LMC/30 Doradus/BAT99 113/G130M_1291_LP5_2062.400_16812/lf2t1c010/lf2t1c010_continuumfit.fits|1250.57800|0.00006154|15.2208|19.5353|0.0000|2|2|2|-40.1070|40.1070|1250.48766|1250.82229|0.00006154|SII|none|
+/Users/billyli/Documents/float-for-morrow/LMC/30 Doradus/BAT99 113/G130M_1291_LP5_2062.400_16812/lf2t1c010/lf2t1c010_continuumfit.fits|1253.80500|0.00006154|15.2208|19.5353|0.0000|2|2|2|-40.1070|40.1070|1253.71442|1254.04992|0.00006154|SII|none|
+/Users/billyli/Documents/float-for-morrow/LMC/30 Doradus/BAT99 113/G130M_1291_LP5_2062.400_16812/lf2t1c010/lf2t1c010_continuumfit.fits|1259.51800|0.00006154|15.2208|19.5353|0.0000|2|2|2|-40.1070|40.1070|1259.42701|1259.76403|0.00006154|SII|none|

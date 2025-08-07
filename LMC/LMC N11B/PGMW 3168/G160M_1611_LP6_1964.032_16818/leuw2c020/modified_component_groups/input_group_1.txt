@@ -1,0 +1,2 @@
+specfile|restwave|zsys|col|bval|vel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|z_comp|trans|rely|comment
+/Users/billyli/Documents/float-for-morrow/LMC/LMC N11B/PGMW 3168/G160M_1611_LP6_1964.032_16818/leuw2c020/leuw2c020_continuumfit.fits|1611.2005|0.0009367|15.3579|7.3289|0.0|2|2|2|-25.0668|25.0668|1612.57487|1612.84456|0.0009367|FeII|none|
