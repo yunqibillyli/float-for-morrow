@@ -1,2 +1,3 @@
 specfile|restwave|zsys|col|sigcol|bval|sigbval|vel|sigvel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|pix1|pix2|z_comp|trans|rely|comment 
-/Users/billyli/Documents/float-for-morrow/LMC/LMC N11B/BRRG 75/E140M_1425_0.2x0.2_2192.200_16820/oeuf2s010/oeuf2s010_continuumfit.fits|1611.2005|0.00094|15.243|0.087|8.421|2.688|-1.344|1.736|2|2|2|-23.3957|23.3957|1612.5929483639463|1612.8444234263231|38671|38685|0.00094|FeII|none|-- 
+/Users/billyli/Documents/float-for-morrow/LMC/LMC N11B/BRRG 75/E140M_1425_0.2x0.2_2192.200_16820/oeuf2s010/oeuf2s010_continuumfit.fits|1608.4511|0.00078|15.065|0.103|12.5|1.092|18.273|0.98|2|2|2|-7.1023|7.1023|1609.6643695867597|1609.74058032484|38500|38504|0.00084|FeII|none|-- 
+/Users/billyli/Documents/float-for-morrow/LMC/LMC N11B/BRRG 75/E140M_1425_0.2x0.2_2192.200_16820/oeuf2s010/oeuf2s010_continuumfit.fits|1611.2005|0.00078|15.065|0.0|12.5|0.0|18.273|0.0|2|2|2|-7.1023|7.1023|1612.4158434846865|1612.492184493313|38660|38665|0.00084|FeII|none|-- 

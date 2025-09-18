@@ -1,2 +1,2 @@
 specfile|restwave|zsys|col|bval|vel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|z_comp|trans|rely|comment
-/Users/billyli/Documents/float-for-morrow/SMC/SMC N81/AzV 446/G130M_1327_LP1_323.040_11625/lb2a03020/lb2a03020_continuumfit.fits|1355.5977|0.00048518|17.7101|5.0|0.0|2|2|2|-30.0802|30.0802|1356.11934|1356.3915|0.00048518|OI|none|
+/Users/billyli/Documents/float-for-morrow/SMC/SMC N81/AzV 446/G130M_1327_LP1_323.040_11625/lb2a03020/lb2a03020_continuumfit.fits|1355.5977|0.00048518|17.7101|10.0|0.0|2|2|2|-30.0802|30.0802|1356.11934|1356.3915|0.00048518|OI|none|

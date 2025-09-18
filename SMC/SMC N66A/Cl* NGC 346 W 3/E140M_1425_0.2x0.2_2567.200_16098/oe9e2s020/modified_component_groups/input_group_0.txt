@@ -1,3 +1,3 @@
 specfile|restwave|zsys|col|bval|vel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|z_comp|trans|rely|comment
-/Users/billyli/Documents/float-for-morrow/SMC/SMC N66A/Cl* NGC 346 W 3/E140M_1425_0.2x0.2_2567.200_16098/oe9e2s020/oe9e2s020_continuumfit.fits|1608.4511|0.00049076|15.0618|5.27735|0.0|2|2|2|-41.7781|41.7781|1609.01622|1609.46473|0.00049076|FeII|none|
-/Users/billyli/Documents/float-for-morrow/SMC/SMC N66A/Cl* NGC 346 W 3/E140M_1425_0.2x0.2_2567.200_16098/oe9e2s020/oe9e2s020_continuumfit.fits|1611.2005|0.00049076|15.0618|5.27735|0.0|2|2|2|-41.7781|41.7781|1611.76658|1612.21587|0.00049076|FeII|none|
+/Users/billyli/Documents/float-for-morrow/SMC/SMC N66A/Cl* NGC 346 W 3/E140M_1425_0.2x0.2_2567.200_16098/oe9e2s020/oe9e2s020_continuumfit.fits|1608.4511|0.00049076|15.0618|10.5547|0.0|2|2|2|-41.7781|41.7781|1609.01622|1609.46473|0.00049076|FeII|none|
+/Users/billyli/Documents/float-for-morrow/SMC/SMC N66A/Cl* NGC 346 W 3/E140M_1425_0.2x0.2_2567.200_16098/oe9e2s020/oe9e2s020_continuumfit.fits|1611.2005|0.00049076|15.0618|10.5547|0.0|2|2|2|-41.7781|41.7781|1611.76658|1612.21587|0.00049076|FeII|none|

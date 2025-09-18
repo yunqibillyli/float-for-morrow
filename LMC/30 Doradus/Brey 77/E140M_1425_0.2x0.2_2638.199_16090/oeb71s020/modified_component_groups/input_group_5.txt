@@ -1,2 +1,2 @@
 specfile|restwave|zsys|col|bval|vel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|z_comp|trans|rely|comment
-/Users/billyli/Documents/float-for-morrow/LMC/30 Doradus/Brey 77/E140M_1425_0.2x0.2_2638.199_16090/oeb71s020/oeb71s020_continuumfit.fits|1358.773|0.00090325|13.232|16.7132|0.0|2|2|2|-41.7781|41.7781|1359.81081|1360.18986|0.00090325|CuII|none|
+/Users/billyli/Documents/float-for-morrow/LMC/30 Doradus/Brey 77/E140M_1425_0.2x0.2_2638.199_16090/oeb71s020/oeb71s020_continuumfit.fits|1358.773|0.00090325|13.232|33.4264|0.0|2|2|2|-41.7781|41.7781|1359.81081|1360.18986|0.00090325|CuII|none|
