@@ -1,0 +1,2 @@
+specfile|restwave|zsys|col|bval|vel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|z_comp|trans|rely|comment
+/Users/billyli/Documents/float-for-morrow/LMC/LMC N11B/PGMW 3120/E140M_1425_0.2x0.06_3152.000_8320/o5ez01020/o5ez01020_continuumfit.fits|1358.773|0.000959|12.6092|10.0|0.0|2|2|2|-21.7246|21.7246|1359.9775|1360.17462|0.000959|CuII|none|

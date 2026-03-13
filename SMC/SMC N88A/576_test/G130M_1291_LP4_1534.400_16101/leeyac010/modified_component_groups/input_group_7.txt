@@ -1,0 +1,2 @@
+specfile|restwave|zsys|col|bval|vel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|z_comp|trans|rely|comment
+/Users/billyli/Documents/float-for-morrow/SMC/SMC N88A/2dFS 3694/G130M_1291_LP4_1534.400_16101/leeyac010/leeyac010_continuumfit.fits|1358.773|0.00044059|12.0|10.0|0.0|2|2|2|-26.738|26.738|1359.25043|1359.49291|0.00044059|CuII|none|

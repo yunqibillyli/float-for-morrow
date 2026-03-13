@@ -1,0 +1,4 @@
+specfile|restwave|zsys|col|bval|vel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|z_comp|trans|rely|comment
+/Users/billyli/Documents/float-for-morrow/LMC/30 Doradus/2MASS J05384539-6902514/G130M_1291_LP5_2800.640_16814/lewn3c010/lewn3c010_continuumfit.fits|1250.57800|0.00005597|15.3432|27.7124|0.0000|2|2|2|-61.8316|61.8316|1250.39007|1250.90596|0.00005597|SII|none|
+/Users/billyli/Documents/float-for-morrow/LMC/30 Doradus/2MASS J05384539-6902514/G130M_1291_LP5_2800.640_16814/lewn3c010/lewn3c010_continuumfit.fits|1253.80500|0.00005597|15.3432|27.7124|0.0000|2|2|2|-61.8316|61.8316|1253.61659|1254.13381|0.00005597|SII|none|
+/Users/billyli/Documents/float-for-morrow/LMC/30 Doradus/2MASS J05384539-6902514/G130M_1291_LP5_2800.640_16814/lewn3c010/lewn3c010_continuumfit.fits|1259.51800|0.00005597|15.3432|27.7124|0.0000|2|2|2|-61.8316|61.8316|1259.32873|1259.84830|0.00005597|SII|none|

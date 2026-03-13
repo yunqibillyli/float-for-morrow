@@ -1,0 +1,4 @@
+specfile|restwave|zsys|col|bval|vel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|z_comp|trans|rely|comment
+/Users/billyli/Documents/float-for-morrow/LMC/LMC N11B/PGMW 3120/E140M_1425_0.2x0.06_3152.000_8320/o5ez01030/o5ez01030_continuumfit.fits|1317.217|0.00094227|13.7399|10.0|0.0|2|2|2|-16.7112|16.7112|1318.38469|1318.53168|0.00094227|NiII|none|
+/Users/billyli/Documents/float-for-morrow/LMC/LMC N11B/PGMW 3120/E140M_1425_0.2x0.06_3152.000_8320/o5ez01030/o5ez01030_continuumfit.fits|1370.132|0.00094227|13.7399|10.0|0.0|2|2|2|-16.7112|16.7112|1371.3466|1371.49949|0.00094227|NiII|none|
+/Users/billyli/Documents/float-for-morrow/LMC/LMC N11B/PGMW 3120/E140M_1425_0.2x0.06_3152.000_8320/o5ez01030/o5ez01030_continuumfit.fits|1454.842|0.00094227|13.7399|10.0|0.0|2|2|2|-16.7112|16.7112|1456.13169|1456.29404|0.00094227|NiII|none|
