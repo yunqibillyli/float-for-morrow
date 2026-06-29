@@ -1,3 +1,3 @@
 specfile|restwave|zsys|col|bval|vel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|z_comp|trans|rely|comment
-/Users/billyli/Documents/float-for-morrow/LMC/30 Doradus/Cl* NGC 2070 MEL 55/G130M_1291_LP5_4774.368_16815/lf1n2c010/lf1n2c010_continuumfit.fits|1317.217|0.00089211|14.0168|11.4576|0.0|2|2|2|-35.0936|35.0936|1318.23778|1318.54644|0.00089211|NiII|none|
-/Users/billyli/Documents/float-for-morrow/LMC/30 Doradus/Cl* NGC 2070 MEL 55/G130M_1291_LP5_4774.368_16815/lf1n2c010/lf1n2c010_continuumfit.fits|1370.132|0.00089211|14.0168|11.4576|0.0|2|2|2|-35.0936|35.0936|1371.19378|1371.51484|0.00089211|NiII|none|
+/Users/billyli/Documents/float-for-morrow/LMC/30 Doradus/Cl* NGC 2070 MEL 55/G130M_1291_LP5_4774.368_16815/lf1n2c010/lf1n2c010_continuumfit.fits|1317.217|0.00089211|14.0168|22.9152|0.0|2|2|2|-35.0936|35.0936|1318.23778|1318.54644|0.00089211|NiII|none|
+/Users/billyli/Documents/float-for-morrow/LMC/30 Doradus/Cl* NGC 2070 MEL 55/G130M_1291_LP5_4774.368_16815/lf1n2c010/lf1n2c010_continuumfit.fits|1370.132|0.00089211|14.0168|22.9152|0.0|2|2|2|-35.0936|35.0936|1371.19378|1371.51484|0.00089211|NiII|none|
